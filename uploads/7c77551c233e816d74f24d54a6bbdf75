@@ -1,0 +1,5901 @@
+[
+  {
+    "emailAddress": "canavarro@epec.com.ar",
+    "usrCod": "ANAVARRO",
+    "usrNom": "Carlos A.Navarro",
+    "usrNum": 26,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "PGONZALE",
+    "usrNom": "Pedro Gonzalez",
+    "usrNum": 51,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "SHIDALGO",
+    "usrNom": "Sergio Elio Hidalgo (59)",
+    "usrNum": 59,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ebruno@epec.com.ar",
+    "usrCod": "EBRUNO",
+    "usrNom": "Elvio Jose Bruno",
+    "usrNum": 83,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rdacol@epec.com.ar",
+    "usrCod": "RDACOL",
+    "usrNom": "Ruben Dario Da Col",
+    "usrNum": 97,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "llujan@epec.com.ar",
+    "usrCod": "LLUJAN",
+    "usrNom": "Luis Maria Lujan Quinteros",
+    "usrNum": 133,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JLPEREYR",
+    "usrNom": "Julio Pereyra",
+    "usrNum": 599,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jmoya@epec.com.ar",
+    "usrCod": "JMOYA",
+    "usrNom": "José Miguel Moya (603)",
+    "usrNum": 603,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dmuzo@epec.com.ar",
+    "usrCod": "DMUZO",
+    "usrNom": "Daniel Muzo",
+    "usrNum": 705,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "molivier@epec.com.ar",
+    "usrCod": "MOLIVIER",
+    "usrNom": "Mario E. Olivier",
+    "usrNum": 760,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "LAREVALO",
+    "usrNom": "Luis Alberto Arevalo",
+    "usrNum": 788,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "hcaceres@epec.com.ar",
+    "usrCod": "HCACERES",
+    "usrNom": "Ramón Hector Caceres (836)",
+    "usrNum": 836,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JVILLAGR",
+    "usrNom": "Juan Villagra",
+    "usrNum": 851,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MIGONZAL",
+    "usrNom": "Miguel Angel Gonzalez",
+    "usrNum": 1003,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ejara@epec.com.ar",
+    "usrCod": "EJARA",
+    "usrNom": "Enzo Jara",
+    "usrNum": 1007,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rfiguero@epec.com.ar",
+    "usrCod": "RFIGUERO",
+    "usrNom": "Raul Figueroa",
+    "usrNum": 1043,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "AGARIGLI",
+    "usrNom": "Arnaldo Ramon Gariglio",
+    "usrNum": 1408,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "DSASSARO",
+    "usrNom": "Daniel Sassaroli",
+    "usrNum": 1547,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ldifilippo@epec.com.ar",
+    "usrCod": "LDIFILIP",
+    "usrNom": "Luis fernando Di Filippo (1557)",
+    "usrNum": 1557,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jnieves@epec.com.ar",
+    "usrCod": "JNIEVES",
+    "usrNom": "Jose Nieves",
+    "usrNum": 1597,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "nstanecka@epec.com.ar",
+    "usrCod": "NSTANECK",
+    "usrNom": "Natalia Stanecka",
+    "usrNum": 1690,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JPIERSIM",
+    "usrNom": "Piersimoni, Jesus Maria (1701)",
+    "usrNum": 1701,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jrossi@epec.com.ar",
+    "usrCod": "JROSSI",
+    "usrNom": "José Rossi (1707)",
+    "usrNum": 1707,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lcanalis@epec.com.ar",
+    "usrCod": "LCANALIS",
+    "usrNom": "Luis Canalis",
+    "usrNum": 1716,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gfenoglio@epec.com.ar",
+    "usrCod": "GFENOGLI",
+    "usrNom": "Gabriel Fenoglio",
+    "usrNum": 1717,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "Aorione@epec.com.ar",
+    "usrCod": "AORIONE",
+    "usrNom": "Angel E. Orione",
+    "usrNum": 1772,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "OPICCOLO",
+    "usrNom": "Oscar Aníbal Piccolo (1773)",
+    "usrNum": 1773,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rrivero@epec.com.ar",
+    "usrCod": "RRIVERO",
+    "usrNom": "Reinaldo Rivero",
+    "usrNum": 1856,
+    "usrPas": "MATI"
+  },
+  {
+    "usrCod": "IECHENIQ",
+    "usrNom": "Ignacio Echenique",
+    "usrNum": 1995,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gbarrale@epec.com.ar",
+    "usrCod": "GBARRALE",
+    "usrNom": "Barrale Gustavo",
+    "usrNum": 2004,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "agiannobi@epec.com.ar",
+    "usrCod": "AGIANNOB",
+    "usrNom": "Ana Giannobi",
+    "usrNum": 2010,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cmurua@epec.com.ar",
+    "usrCod": "CMURUA",
+    "usrNom": "Cristina Murua",
+    "usrNum": 2032,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "Dtoniutti@epec.com.ar",
+    "usrCod": "DTONIUTT",
+    "usrNom": "Dar�o C�sar Toniutti",
+    "usrNum": 2057,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lgonzalez@epec.com.ar",
+    "usrCod": "LGONZALE",
+    "usrNom": "Leonardo Gonzalez",
+    "usrNum": 2069,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jgonzale@epec.com.ar",
+    "usrCod": "JGONZALE",
+    "usrNom": "Jorge L.Gonzalez",
+    "usrNum": 2170,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jparis@epec.com.ar",
+    "usrCod": "JPARIS",
+    "usrNom": "Javier Paris",
+    "usrNum": 2173,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "obaroni@epec.com.ar",
+    "usrCod": "OBARONI",
+    "usrNom": "Oscar Baroni",
+    "usrNum": 2216,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "ASENSINI",
+    "usrNom": "Angel Sensini",
+    "usrNum": 2237,
+    "usrPas": "JOSE"
+  },
+  {
+    "emailAddress": "rsosa@epec.com.ar",
+    "usrCod": "RSOSA",
+    "usrNom": "Ruben A. Sosa",
+    "usrNum": 2246,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rpuetta@epec.com.ar",
+    "usrCod": "RPUETTA",
+    "usrNom": "Richard M. Puetta",
+    "usrNum": 2250,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jmarisco@epec.com.ar",
+    "usrCod": "JMARISCO",
+    "usrNom": "Jorge Mariscotti (correcc. 28/01/98)",
+    "usrNum": 2316,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "WRENA",
+    "usrNom": "Walter Omar Rena",
+    "usrNum": 2324,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JBARBARE",
+    "usrNom": "Jorge Barbaresco",
+    "usrNum": 2342,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "LGOYENEC",
+    "usrNom": "Luis Ernesto Goyenechea (2358)",
+    "usrNum": 2358,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JMILICIC",
+    "usrNom": "Jose Luis Milicic",
+    "usrNum": 2592,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mlezcano@epec.com.ar",
+    "usrCod": "MLEZCANO",
+    "usrNom": "Marcos Lezcano",
+    "usrNum": 2706,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "DCORRADI",
+    "usrNom": "Dante Alberto Corradi (2720)",
+    "usrNum": 2720,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JALBIERO",
+    "usrNom": "Jorge Daniel Albiero",
+    "usrNum": 2882,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "DGONZALE",
+    "usrNom": "David Gonzalez",
+    "usrNum": 2965,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lmateo@epec.com.ar",
+    "usrCod": "LMATEO",
+    "usrNom": "Liliana de Mateo",
+    "usrNum": 2988,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mtissera@epec.com.ar",
+    "usrCod": "MTISSERA",
+    "usrNom": "Marcos Orlando Tissera (3059)",
+    "usrNum": 3059,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mmoreno@epec.com.ar",
+    "usrCod": "MMORENO",
+    "usrNom": "Mirta Moreno",
+    "usrNum": 3232,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "nbertorello@epec.com.ar",
+    "usrCod": "NBERTORE",
+    "usrNom": "Nestor Bertorello",
+    "usrNum": 3262,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cbruno@epec.com.ar",
+    "usrCod": "CBRUNO",
+    "usrNom": "Carlos A. Bruno",
+    "usrNum": 3280,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MNONIS",
+    "usrNom": "Miguel Nonis",
+    "usrNum": 3477,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "CDANGELO",
+    "usrNom": "Carlos Dangelo",
+    "usrNum": 3500,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "RTAPIA",
+    "usrNom": "Roque Tapia",
+    "usrNum": 3648,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "svera@epec.com.ar",
+    "usrCod": "SVERA",
+    "usrNom": "Sergio Vera",
+    "usrNum": 3681,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cmontene@epec.com.ar",
+    "usrCod": "CMONTENE",
+    "usrNom": "Carlos María Montenegro (3687)",
+    "usrNum": 3687,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dguarnie@epec.com.ar",
+    "usrCod": "DGUARNIE",
+    "usrNom": "Daniel Guarneri",
+    "usrNum": 3701,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "osilva@epec.com.ar",
+    "usrCod": "OSILVA",
+    "usrNom": "Osvaldo Silva",
+    "usrNum": 3712,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "ROREYES",
+    "usrNom": "Roberto Oliva Reyes",
+    "usrNum": 3741,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ccampos@epec.com.ar",
+    "usrCod": "CCAMPOS",
+    "usrNom": "Carlos Campos (3742)",
+    "usrNum": 3742,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "smoreyra@epec.com.ar",
+    "usrCod": "SMOREYRA",
+    "usrNom": "Sergio Moreyra",
+    "usrNum": 3796,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cvega@epec.com.ar",
+    "usrCod": "CVEGA",
+    "usrNom": "Claudio Vega",
+    "usrNum": 3854,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "Mjaimes@epec.com.ar",
+    "usrCod": "MANDUJAR",
+    "usrNom": "Monica Andujar",
+    "usrNum": 3863,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "msalaberry@epec.com.ar",
+    "usrCod": "MSALABER",
+    "usrNom": "Marcelo F. Salaberri",
+    "usrNum": 3870,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "aferreyra@epec.com.ar",
+    "usrCod": "AFERREYR",
+    "usrNom": "Ariel A. Ferreyra",
+    "usrNum": 3895,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MSZPYRNA",
+    "usrNom": "Marissa Szpyrnal",
+    "usrNum": 3899,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rvazquez@epec.com.ar",
+    "usrCod": "RVAZQUEZ",
+    "usrNom": "Vazquez Ricardo (3930)",
+    "usrNum": 3930,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gmeneghello@epec.com.ar",
+    "usrCod": "GMENEGEL",
+    "usrNom": "Guillermo Adrian Menegelo",
+    "usrNum": 3935,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "vbergoglio@epec.com.ar",
+    "usrCod": "VBERGOGL",
+    "usrNom": "Victor Bergoglio",
+    "usrNum": 3938,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "omartino@epec.com.ar",
+    "usrCod": "OMARTINO",
+    "usrNom": "Oscar Mario Martino",
+    "usrNum": 3944,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "GARCE",
+    "usrNom": "Arce Guillermo",
+    "usrNum": 3965,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "hgarcia@epec.com.ar",
+    "usrCod": "HGARCIA",
+    "usrNom": "Horacio Enrique Garcia",
+    "usrNum": 3981,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "Fpizarro@epec.com.ar",
+    "usrCod": "FPIZARRO",
+    "usrNom": "Fernando Pizarro",
+    "usrNum": 3999,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fsilva@epec.com.ar",
+    "usrCod": "FSILVA",
+    "usrNom": "Fabio Silva",
+    "usrNum": 4237,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "RCORTES",
+    "usrNom": "Roberto Cortes",
+    "usrNum": 4311,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "omcortes@epec.com.ar",
+    "usrCod": "NCORTES",
+    "usrNom": "Nestor Cortes",
+    "usrNum": 4342,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jgallo@epec.com.ar",
+    "usrCod": "JGALLO",
+    "usrNom": " José Gallo",
+    "usrNum": 4361,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "pbentivo@epec.com.ar",
+    "usrCod": "PBENTIVO",
+    "usrNom": "Pablo Ventiboglio",
+    "usrNum": 4369,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "AGGOMEZ",
+    "usrNom": "Agustin Gomez",
+    "usrNum": 4372,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jofernandez@epec.com.ar",
+    "usrCod": "JFERNAND",
+    "usrNom": "Jose Fernandez",
+    "usrNum": 4383,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mmartorana@epec.com.ar",
+    "usrCod": "MMARTORA",
+    "usrNom": "Miguel Angel Martorana",
+    "usrNum": 4397,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JROLDAN",
+    "usrNom": "Julio Roldan",
+    "usrNum": 4403,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "LCALDERO",
+    "usrNom": "Luis Calderoni",
+    "usrNum": 4411,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "COVIEDO",
+    "usrNom": "César Luis Oviedo",
+    "usrNum": 4431,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lonieto@epec.com.ar",
+    "usrCod": "LNIETO",
+    "usrNom": "Leonardo Nieto",
+    "usrNum": 4469,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JPEZZOLI",
+    "usrNom": "Javier Claudio Pezzoli",
+    "usrNum": 4479,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JLGONZAL",
+    "usrNom": "José Luis Gonzales (4483)",
+    "usrNum": 4483,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "juankasas950@gmail.com",
+    "usrCod": "JCASAS",
+    "usrNom": "Casas Juan Jose",
+    "usrNum": 4500,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ewortley@epec.com.ar",
+    "usrCod": "EWORTLEY",
+    "usrNom": "Edgar Rubén WORTLEY",
+    "usrNum": 4537,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "GASUA@EPEC.COM.AR",
+    "usrCod": "RASUA",
+    "usrNom": "Raul G. Asua",
+    "usrNum": 4543,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "hmoggio@epec.com.ar",
+    "usrCod": "HMOGGIO",
+    "usrNom": "Hugo Rubén Moggio (4561)",
+    "usrNum": 4561,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "colaviag@epec.com.ar",
+    "usrCod": "COLAVIAG",
+    "usrNom": "Carlos Olaviaga",
+    "usrNum": 4571,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "garteta@epec.com.ar",
+    "usrCod": "GARTETA",
+    "usrNom": "Gustavo Arteta",
+    "usrNum": 4573,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lmorales@epec.com.ar",
+    "usrCod": "LMORALES",
+    "usrNom": "Luis Morales",
+    "usrNum": 4576,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "semartínez@epec.com.ar",
+    "usrCod": "SMARTINE",
+    "usrNom": "Sergio Martínez",
+    "usrNum": 4591,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gmorales@epec.com.ar",
+    "usrCod": "GMORALES",
+    "usrNom": "Gustavo Morales",
+    "usrNum": 4592,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mejara@epec.com.ar",
+    "usrCod": "MEJARA",
+    "usrNom": "Mario Enrique Jara (4595)",
+    "usrNum": 4595,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "DTERAN",
+    "usrNom": "Enrique Daniel Teran (4600)",
+    "usrNum": 4600,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rvalenti@epec.com.ar",
+    "usrCod": "RVALENTI",
+    "usrNom": "Ramón José Daniel Valenti (4601)",
+    "usrNum": 4601,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "EOLMEDO",
+    "usrNom": "Eduardo Fabián Olmedo (4602)",
+    "usrNum": 4602,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MCALDERO",
+    "usrNom": "Mario Daniel Calderon",
+    "usrNum": 4615,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mviale@epec.com.ar",
+    "usrCod": "MVIALE",
+    "usrNom": "Marco Viale",
+    "usrNum": 4625,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "PGOMEZ",
+    "usrNom": "Pablo Gomez",
+    "usrNum": 4630,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "aselci@epec.com.ar",
+    "usrCod": "ASELCI",
+    "usrNom": "Alicia Maria Selci",
+    "usrNum": 4635,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "orivero@epec.com.ar",
+    "usrCod": "ORIVERO",
+    "usrNom": "Oscar Rivero",
+    "usrNum": 4636,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MRODRIGU",
+    "usrNom": "Marcelo Rodriguez",
+    "usrNum": 4650,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "htaborda@epec.com.ar",
+    "usrCod": "HTABORDA",
+    "usrNom": "Taborda Hector",
+    "usrNum": 4772,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lmansilla@epec.com.ar",
+    "usrCod": "LMANSILL",
+    "usrNom": "Luis Mansilla",
+    "usrNum": 4776,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gzaniboni@epec.com.ar",
+    "usrCod": "GZANIBON",
+    "usrNom": "Gerardo Jose Zaniboni",
+    "usrNum": 4787,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "AMORBIDO",
+    "usrNom": "Alberto Morbidoni",
+    "usrNum": 4793,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "centralsanfrancisco@epec.com.ar",
+    "usrCod": "GUGOMEZ",
+    "usrNom": "Gomez, Gustavo Julian (4802)",
+    "usrNum": 4802,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "waurea@epec.com.ar",
+    "usrCod": "WAUREA",
+    "usrNom": "Walter Aurea",
+    "usrNum": 4823,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gmari@epec.com.ar",
+    "usrCod": "GMARI",
+    "usrNom": "Gustavo Daniel Mari",
+    "usrNum": 4836,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "obionda@epec.com.ar",
+    "usrCod": "OBIONDA",
+    "usrNom": "Oscar Bionda",
+    "usrNum": 4865,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jgcenteno@epec.com.ar",
+    "usrCod": "JCENTENO",
+    "usrNom": "José Gabriel Centeno (4866)",
+    "usrNum": 4866,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "eguazzini@epec.com.ar",
+    "usrCod": "EGUAZZIN",
+    "usrNom": "Eduardo Guazzini",
+    "usrNum": 4890,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dbrizuela@epec.com.ar",
+    "usrCod": "DBRIZUEL",
+    "usrNom": "Dario Pablo Brizuela",
+    "usrNum": 4998,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "EMFERNAN",
+    "usrNom": "Enzo Miguel Fernandez (5057)",
+    "usrNum": 5057,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "PCROSA",
+    "usrNom": "Pablo Crosa",
+    "usrNum": 5058,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "olopez@epec.com.ar",
+    "usrCod": "OLOPEZ",
+    "usrNom": "Omar Luis Lopez (5059)",
+    "usrNum": 5059,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "aolaviag@epec.com.ar",
+    "usrCod": "AOLAVIAG",
+    "usrNom": "Alfredo Olaviaga",
+    "usrNum": 5329,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cacevedo@epec.com.ar",
+    "usrCod": "CACEVEDO",
+    "usrNom": "Carlos Acevedo",
+    "usrNum": 5331,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jstaselk@epec.com.ar",
+    "usrCod": "JSTASELK",
+    "usrNom": "Jorge Staselka",
+    "usrNum": 5345,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JSASSARO",
+    "usrNom": "Juan Jose Sassaro",
+    "usrNum": 5347,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "hbrun@epec.com.ar",
+    "usrCod": "HBRUN",
+    "usrNom": "Hugo Delfor Brun",
+    "usrNum": 5349,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "HVILLEGA",
+    "usrNom": "Hector Villegas",
+    "usrNum": 5350,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jramos@epec.com.ar",
+    "usrCod": "JRAMOS",
+    "usrNom": "Jorge E. Ramos",
+    "usrNum": 5355,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dvillori@epec.com.ar",
+    "usrCod": "DVILLORI",
+    "usrNom": "Daniel Alberto Villoria",
+    "usrNum": 5356,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "ABUSTO",
+    "usrNom": "Ariel Busto",
+    "usrNum": 5364,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MALONZO",
+    "usrNom": "Marcelo Alberto Alonzo (5365)",
+    "usrNum": 5365,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "marroyo@epec.com.ar",
+    "usrCod": "MARROYO",
+    "usrNom": "Maria Alejandra Arroyo",
+    "usrNum": 5381,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ctelgare@epec.com.ar",
+    "usrCod": "CTELGARE",
+    "usrNom": "Carlos Telgarecz",
+    "usrNum": 5398,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "asawicki@epec.com.ar",
+    "usrCod": "ASAWICKI",
+    "usrNom": "Adrian Sawicki",
+    "usrNum": 5416,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jperetti@epec.com.ar",
+    "usrCod": "JPERETTI",
+    "usrNom": "Julio Cesar Peretti (5434)",
+    "usrNum": 5434,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jprieto@epec.com.ar",
+    "usrCod": "JPRIETO",
+    "usrNom": "Jose Prieto",
+    "usrNum": 5436,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "bcorrea@epec.com.ar",
+    "usrCod": "BCORREA",
+    "usrNom": "Bernardo Correa",
+    "usrNum": 5460,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jfiala@epec.com.ar",
+    "usrCod": "JFIALA",
+    "usrNom": "Julio Fiala",
+    "usrNum": 5464,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mluque@epec.com.ar",
+    "usrCod": "MYLUQUE",
+    "usrNom": "Myriam LUQUE",
+    "usrNum": 5479,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mmartin@epec.com.ar",
+    "usrCod": "MMARTIN",
+    "usrNom": "Miguel Martin",
+    "usrNum": 5487,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "Mcarasa@epec.com.ar",
+    "usrCod": "MCARASA",
+    "usrNom": "Maricel Andrea Carasa",
+    "usrNum": 5496,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ffiuri@epec.com.ar",
+    "usrCod": "FFIURI",
+    "usrNom": "Fabian Fiuri",
+    "usrNum": 5500,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jfilippa@epec.com.ar",
+    "usrCod": "JFILIPPA",
+    "usrNom": "Juan C. Filippa",
+    "usrNum": 5631,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "Galmada@epec.com.ar",
+    "usrCod": "GALMADA",
+    "usrNom": "Gerardo Almada",
+    "usrNum": 5691,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jvietto@epec.com.ar",
+    "usrCod": "JVIETTO",
+    "usrNom": "Jorge Daniel Vietto (5693)",
+    "usrNum": 5693,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "szonghetti@epec.com.ar",
+    "usrCod": "SZONGHET",
+    "usrNom": "Sergio Zonghetti",
+    "usrNum": 5703,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JDIAZ",
+    "usrNom": "Juan Carlos Diaz",
+    "usrNum": 5705,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gfiuri@epec.com.ar",
+    "usrCod": "GFIURI",
+    "usrNom": "Gustavo Fiuri",
+    "usrNum": 5725,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "EJIMENEZ",
+    "usrNom": "Esteban Daniel Jimenez",
+    "usrNum": 5728,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "drojas@epec.com.ar",
+    "usrCod": "DROJAS",
+    "usrNom": "Dario Alberto Rojas",
+    "usrNum": 5733,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "SDOTTO",
+    "usrNom": "Sergio Dotto",
+    "usrNum": 5762,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "pgodoy@epec.com.ar",
+    "usrCod": "PGODOY",
+    "usrNom": "Pascual Godoy",
+    "usrNum": 5765,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "hvillalba@epec.com.ar",
+    "usrCod": "OVILLALV",
+    "usrNom": "Oscar Villalva",
+    "usrNum": 5767,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mseade@epec.com.ar",
+    "usrCod": "MSEADE",
+    "usrNom": "Marcelo Seade",
+    "usrNum": 5774,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "sergio-0412@hotmail.com",
+    "usrCod": "SFIGUERO",
+    "usrNom": "Sergio Figueroa",
+    "usrNum": 5780,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cvillarreal@epec.com.ar",
+    "usrCod": "CVILARRE",
+    "usrNom": "Claudio Villarreal",
+    "usrNum": 5785,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "DMERLINO",
+    "usrNom": "Diego Merlino",
+    "usrNum": 5792,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mnieva@epec.com.ar",
+    "usrCod": "MNIEVA",
+    "usrNom": "Mauricio Fernando Nieva",
+    "usrNum": 5810,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rarias@epec.com.ar",
+    "usrCod": "RAARIAS",
+    "usrNom": "Ramiro Arias",
+    "usrNum": 5849,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MLACHINI",
+    "usrNom": "Maria E. Lachini",
+    "usrNum": 5882,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MALUQUE",
+    "usrNom": "Luque, Marcos Oscar (5914)",
+    "usrNum": 5914,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "aceballo@epec.com.ar",
+    "usrCod": "ACEBALLO",
+    "usrNom": "Alejandro Javier Ceballos",
+    "usrNum": 5934,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jdealessandro@epec.com.ar",
+    "usrCod": "JDEALESS",
+    "usrNom": "Javier A. Dealessandro",
+    "usrNum": 5937,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cninoff@epec.com.ar",
+    "usrCod": "CNINOFF",
+    "usrNom": "Carola Ada Ninoff",
+    "usrNum": 5948,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "snunez@epec.com.ar",
+    "usrCod": "SNUNEZ",
+    "usrNom": "Susana I. Núñez",
+    "usrNum": 5949,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "abasualdo@epec.com.ar",
+    "usrCod": "ABASUALD",
+    "usrNom": "Adrian E Basualdo",
+    "usrNum": 5976,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rbelli@epec.com.ar",
+    "usrCod": "RBELLI",
+    "usrNom": "Belli Ruben",
+    "usrNum": 5977,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cbirchmeyer@epec.com.ar",
+    "usrCod": "CBIRCHME",
+    "usrNom": "Carlos Alberto Birchmeyer",
+    "usrNum": 5979,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ecano@epec.com.ar",
+    "usrCod": "ECANO",
+    "usrNom": "Esteban Cano",
+    "usrNum": 5993,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "RCORREA",
+    "usrNom": "Ruben Oscar Correa",
+    "usrNum": 5995,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gesperella@epec.com.ar",
+    "usrCod": "GESPRELL",
+    "usrNom": "Gustavo Esprella",
+    "usrNum": 5997,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fmedina@epec.com.ar",
+    "usrCod": "FMEDINA",
+    "usrNom": "Francisco Medina",
+    "usrNum": 5999,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mmonta@epec.com.ar",
+    "usrCod": "MMONTA",
+    "usrNom": "Miguel Monta",
+    "usrNum": 6000,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "EVARELA",
+    "usrNom": "Emilio Varela",
+    "usrNum": 6283,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "DSAAVEDR",
+    "usrNom": "Dario Alberto Saavedra",
+    "usrNum": 6427,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "EPETRUSS",
+    "usrNom": "Edith Petrussa",
+    "usrNum": 6448,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JRRODRIG",
+    "usrNom": "Julio Rubén Sebastián RODRIGUEZ",
+    "usrNum": 6452,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "maramburu@epec.com.ar",
+    "usrCod": "MARAMBUR",
+    "usrNom": "ARAMBURU MISENO PEDRO",
+    "usrNum": 6463,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mmartinez@epec.com.ar",
+    "usrCod": "MMARTINE",
+    "usrNom": "Mario Luis Martínez",
+    "usrNum": 6473,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "daolmos@epec.com.ar",
+    "usrCod": "DAOLMOS",
+    "usrNom": "Dario Olmos",
+    "usrNum": 6486,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MABDON",
+    "usrNom": "Marcos Abdon (6493)",
+    "usrNum": 6493,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "hoviedo@epec.com.ar",
+    "usrCod": "HEOVIEDO",
+    "usrNom": "Hector Daniel Oviedo (6499)",
+    "usrNum": 6499,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "pmalem@epec.com.ar",
+    "usrCod": "PMALEM",
+    "usrNom": "Pablo Ismael Malem (6502)",
+    "usrNum": 6502,
+    "usrPas": "1611"
+  },
+  {
+    "emailAddress": "ccollo@epec.com.ar",
+    "usrCod": "CCOLLO",
+    "usrNom": "Cristian Iván Collo (6503)",
+    "usrNum": 6503,
+    "usrPas": "1975"
+  },
+  {
+    "usrCod": "DVITALSZ",
+    "usrNom": "Darío Alejandro VITAL SZUL",
+    "usrNum": 6506,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mmorales@epec.com.ar",
+    "usrCod": "MMORALES",
+    "usrNom": "Mario Alberto Morales",
+    "usrNum": 6513,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rgodoy@epec.com.ar",
+    "usrCod": "RGODOY",
+    "usrNom": "Roberto Carlos Godoy",
+    "usrNum": 6517,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "eroteno@epec.com.ar",
+    "usrCod": "EROTENO",
+    "usrNom": "Emilio Rotenio",
+    "usrNum": 6525,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jurodriguez@epec.com.ar",
+    "usrCod": "JURODRIG",
+    "usrNom": "Julio Rodriguez",
+    "usrNum": 6531,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "emartore@epec.com.ar",
+    "usrCod": "EMARTORE",
+    "usrNom": "Esteban Juan Martorell",
+    "usrNum": 6545,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lugonzalez@epec.com.ar",
+    "usrCod": "LUGONZAL",
+    "usrNom": "Lucas Manuel Gonzalez",
+    "usrNum": 6546,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "psawicki@epec.com.ar",
+    "usrCod": "PSAWICKI",
+    "usrNom": "Pablo Sawicki",
+    "usrNum": 6550,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ddmarquez@epec.com.ar",
+    "usrCod": "DMARQUEZ",
+    "usrNom": "Dante Daniel Marquez",
+    "usrNum": 6560,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "DARIAS",
+    "usrNom": "Daniela Arias (6561)",
+    "usrNum": 6561,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jachalub@epec.com.ar",
+    "usrCod": "JCHALUB",
+    "usrNom": "Jorge Alejandro Chalub",
+    "usrNum": 6566,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "pbrizuela@epec.com.ar",
+    "usrCod": "PBRIZUEL",
+    "usrNom": "Pablo Brizuela",
+    "usrNum": 6567,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gvega@epec.com.ar",
+    "usrCod": "GVEGA",
+    "usrNom": "Gregorio Vega",
+    "usrNum": 6568,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "saltamir@epec.com.ar",
+    "usrCod": "SALTAMIR",
+    "usrNom": "Susana Martha Altamirano",
+    "usrNum": 6570,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gjara@epec.com.ar",
+    "usrCod": "GJARA",
+    "usrNom": "Jara Gonzalo",
+    "usrNum": 6571,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "RMARTINA",
+    "usrNom": "Rafael Eduardo Martinasso (6574)",
+    "usrNum": 6574,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "HDELGOBO",
+    "usrNom": "Horacio Delgobo (6585)",
+    "usrNum": 6585,
+    "usrPas": "HORA"
+  },
+  {
+    "usrCod": "LBRANCOL",
+    "usrNom": "Luis Lorenzo Brancolini (6586)",
+    "usrNum": 6586,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lpedraza@epec.com.ar",
+    "usrCod": "LPEDRAZA",
+    "usrNom": "Pedraza Luis Ramon",
+    "usrNum": 6603,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "emoyano@epec.com.ar",
+    "usrCod": "EMOYANO",
+    "usrNom": "Esteban Sancho Moyano",
+    "usrNum": 6605,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "HROLDAN",
+    "usrNom": "Horacio Manuel ROLDAN",
+    "usrNum": 6608,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mdallefiore@epec.com.ar",
+    "usrCod": "MDALLEFI",
+    "usrNom": "Mariano Dalle Fiore (6614)",
+    "usrNum": 6614,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "galfonzo@epec.com.ar",
+    "usrCod": "GALFONZO",
+    "usrNom": "Gerardo Martín Alfonzo (6626)",
+    "usrNum": 6626,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jmgarcia@epec.com.ar",
+    "usrCod": "JMGARCIA",
+    "usrNom": "José María García (6628)",
+    "usrNum": 6628,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mturchetti@epec.com.ar",
+    "usrCod": "MTURCHET",
+    "usrNom": "Mariano Turchetti",
+    "usrNum": 6660,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "pmerlo@epec.com.ar",
+    "usrCod": "PMERLO",
+    "usrNom": "Pablo Alberto Merlo (6662)",
+    "usrNum": 6662,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "sarana@epec.com.ar",
+    "usrCod": "SARANA",
+    "usrNom": "Sergio Arana",
+    "usrNum": 6671,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "Gdipalma@epec.com.ar",
+    "usrCod": "GDIPALMA",
+    "usrNom": "Gabriela Alejandra Di Palma",
+    "usrNum": 6673,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "FAAGUIRR",
+    "usrNom": "Aguirres Facundo (6679)",
+    "usrNum": 6679,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "clescano@epec.com.ar",
+    "usrCod": "CLESCANO",
+    "usrNom": "Claudio Fabián Lescano (6687)",
+    "usrNum": 6687,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "haoviedo@epec.com.ar",
+    "usrCod": "HOVIEDO",
+    "usrNom": "Héctor Alberto OVIEDO ",
+    "usrNum": 6690,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "maperalta@epec.com.ar",
+    "usrCod": "MAPERALT",
+    "usrNom": "Mariano Alberto Peralta (6703)",
+    "usrNum": 6703,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "eariaudo@epec.com.ar",
+    "usrCod": "EARIAUDO",
+    "usrNom": "Elio Ariaudo (6715)",
+    "usrNum": 6715,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "DDURAN",
+    "usrNom": "Daniel Fernando Duran",
+    "usrNum": 6718,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fulla@epec.com.ar",
+    "usrCod": "FULLA",
+    "usrNom": "Fernando Abel Ulla (6721)",
+    "usrNum": 6721,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ecancino@epec.com.ar",
+    "usrCod": "ECANCINO",
+    "usrNom": "Eduardo Cancino",
+    "usrNum": 6731,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JEMARTIN",
+    "usrNom": "Jorge Ezequiel Martinez (6740)",
+    "usrNum": 6740,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "slopez@epec.com.ar",
+    "usrCod": "SLOPEZ",
+    "usrNom": "Silvio Roberto López",
+    "usrNum": 6745,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JROMERO",
+    "usrNom": "Juan Manuel Romero (6761)",
+    "usrNum": 6761,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "asolivel@epec.com.ar",
+    "usrCod": "ASOLIVEL",
+    "usrNom": "Javier ALberto Solivellas",
+    "usrNum": 6785,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "FEMARTIN",
+    "usrNom": "Fernanda Martines",
+    "usrNum": 6830,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gramartinez29@gmail.com",
+    "usrCod": "GMARTINE",
+    "usrNom": "Martinez Graciela Analia",
+    "usrNum": 6837,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ezabala@epec.com.ar",
+    "usrCod": "EZABALA",
+    "usrNom": "Evangelina Zabala",
+    "usrNum": 6896,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lpacheco@epec.com.ar",
+    "usrCod": "LPACHECO",
+    "usrNom": "Laura Ines Pacheco",
+    "usrNum": 6957,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "clmurua@epec.com.ar",
+    "usrCod": "CLMURUA",
+    "usrNom": "Claudio Murua",
+    "usrNum": 6962,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dpalacio@epec.com.ar",
+    "usrCod": "DPALACIO",
+    "usrNom": "Daniel A. Palacio",
+    "usrNum": 6967,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mcattaneo@epec.com.ar",
+    "usrCod": "MCATTANE",
+    "usrNom": "Maximiliano Cattaneo (6978)",
+    "usrNum": 6978,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "FARUZA",
+    "usrNom": "Francisco Jose Aruza (6981)",
+    "usrNum": 6981,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "hemoreno@epec.com.ar",
+    "usrCod": "HEMORENO",
+    "usrNom": "Hector Rubén Moreno (6994)",
+    "usrNum": 6994,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "Gcontreras@epec.com.ar",
+    "usrCod": "GCONTRER",
+    "usrNom": "",
+    "usrNum": 6998,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "DRIBOLZI",
+    "usrNom": "Domingo Natalio Ribolzi",
+    "usrNum": 7351,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "maaguilera@epec.com.ar",
+    "usrCod": "MAGUILER",
+    "usrNom": "Marcos Jose Aguilera (7385)",
+    "usrNum": 7385,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gumorales@epec.com.ar",
+    "usrCod": "GMORALE",
+    "usrNom": "Gustavo Morales",
+    "usrNum": 7398,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "PADIAZ",
+    "usrNom": "Pablo Diaz",
+    "usrNum": 7404,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "hperez@epec.com.ar",
+    "usrCod": "HPEREZ",
+    "usrNom": "Hector Perez",
+    "usrNum": 7405,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jmendoza@epec.com.ar",
+    "usrCod": "JMENDOZA",
+    "usrNom": "Juan Manuel Mendoza (7425)",
+    "usrNum": 7425,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "goyo7426@hotmail.com",
+    "usrCod": "GBASUALD",
+    "usrNom": "Gregorio Pastor Basualdo (7426)",
+    "usrNum": 7426,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "GVARGAS",
+    "usrNom": "Gonzalo Vargas",
+    "usrNum": 7428,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "crcordoba@epec.com.ar",
+    "usrCod": "CLCORDOB",
+    "usrNom": "Carlos Roberto Córdoba (7445)",
+    "usrNum": 7445,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "nestorripacolli61@gmail.com",
+    "usrCod": "NRIPACOL",
+    "usrNom": "Nestor Ripacolli (7446)",
+    "usrNum": 7446,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "SCOMPTE",
+    "usrNom": "Sergio Luis Compte",
+    "usrNum": 7456,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lucasmontoya512@gmail.com",
+    "usrCod": "LMONTOYA",
+    "usrNom": "Montoya Lucas Martin",
+    "usrNum": 7459,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dcgarnero@gmail.com",
+    "usrCod": "DGARNERO",
+    "usrNom": "Garnero David Carlos",
+    "usrNum": 7460,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gzapata@epec.com.ar",
+    "usrCod": "GZAPATA",
+    "usrNom": "Gustavo Zapata",
+    "usrNum": 7461,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gdomaica@epec.com.ar",
+    "usrCod": "GDOMAICA",
+    "usrNom": "Graciela Monica Domaica",
+    "usrNum": 7463,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rizquierdo@epec.com.ar",
+    "usrCod": "RIZQUIER",
+    "usrNom": "Roberto Izquierdo",
+    "usrNum": 7465,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "epec.34928@gmail.com",
+    "usrCod": "RAMEN",
+    "usrNom": "Martín Raúl Amen (7467)",
+    "usrNum": 7467,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "ASUAREZ",
+    "usrNom": "Adrián Suárez (7469)",
+    "usrNum": 7469,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "epec.34041@gmail.com",
+    "usrCod": "FCUARTIO",
+    "usrNom": "Fernando Cuartioni (7471)",
+    "usrNum": 7471,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "epec.34033@gmail.com",
+    "usrCod": "JSAMPAYO",
+    "usrNom": "José Sampayo (7472)",
+    "usrNum": 7472,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "pmartin@epec.com.ar",
+    "usrCod": "PMARTINE",
+    "usrNom": " Pablo Martínez (7473)",
+    "usrNum": 7473,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "ROSANCHE",
+    "usrNom": "Rodrigo Sánchez (7477)",
+    "usrNum": 7477,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "epec.34926@gmail.com",
+    "usrCod": "SBONIAS",
+    "usrNom": "Sebastián Bonias (7480)",
+    "usrNum": 7480,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "epec.34038@gmail.com",
+    "usrCod": "CGAITAN",
+    "usrNom": "Carlos Gaitán (7487)",
+    "usrNum": 7487,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "FNIETO",
+    "usrNom": "Franco Nieto (7488)",
+    "usrNum": 7488,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "epec.28622@gmail.com",
+    "usrCod": "RRIVILLI",
+    "usrNom": "Roque Rivilli (7489)",
+    "usrNum": 7489,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MAMUNOZ",
+    "usrNom": "Marcos Muñoz",
+    "usrNum": 7491,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "LYACUZZI",
+    "usrNom": "Leonardo Yacuzzi (7492)",
+    "usrNum": 7492,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "palderete@epec.com.ar",
+    "usrCod": "PALDERET",
+    "usrNom": "Pablo Rene Alderete (7493)",
+    "usrNum": 7493,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JOFERREY",
+    "usrNom": "José Ferreyra (7495)",
+    "usrNum": 7495,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "damaldon@epec.com.ar",
+    "usrCod": "DAMALDON",
+    "usrNom": "Daniel Maldonado (7497)",
+    "usrNum": 7497,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JMAMANI",
+    "usrNom": "Juan Mamani (7499)",
+    "usrNum": 7499,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "DGIGENA",
+    "usrNom": "Diego Aníbal Gigena (7500)",
+    "usrNum": 7500,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "GPESCE",
+    "usrNom": "Guillermo Pesce (7739)",
+    "usrNum": 7739,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "hpagani@epec.com.ar",
+    "usrCod": "HPAGANI",
+    "usrNom": "Hector Pagani",
+    "usrNum": 7752,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "APAULONI",
+    "usrNom": "Alberto Pauloni",
+    "usrNum": 7808,
+    "usrPas": "PAUL"
+  },
+  {
+    "emailAddress": "Rzecchin@epec.om.ar",
+    "usrCod": "RZECCHIN",
+    "usrNom": "Roberto D. Zecchin",
+    "usrNum": 7813,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "SPIÑERO",
+    "usrNom": "Sergio Omar Piñero (7817)",
+    "usrNum": 7817,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rsacchetto@epec.com.ar",
+    "usrCod": "RSACHETT",
+    "usrNom": "Ruben Sachetto",
+    "usrNum": 7818,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "RIPEREZ",
+    "usrNom": "Ricardo Justo Perez (7820)",
+    "usrNum": 7820,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "avidela@epec.com.ar",
+    "usrCod": "AVIDELA",
+    "usrNom": "Antonio Ramon Videla",
+    "usrNum": 7822,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fvaras@epec.com.ar",
+    "usrCod": "FVARAS",
+    "usrNom": "Felix W. Varas",
+    "usrNum": 7824,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "daimar@epec.com.ar",
+    "usrCod": "DAIMAR",
+    "usrNom": "Daniel Aimar",
+    "usrNum": 7825,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "adolce@epec.com.ar",
+    "usrCod": "ADOLCE",
+    "usrNom": "Adrian Benito Dolce",
+    "usrNum": 7829,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mcelis@epec.com.ar",
+    "usrCod": "MCELIS",
+    "usrNom": "Mabel Rosa Celiz",
+    "usrNum": 7830,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "SRAMOS",
+    "usrNom": "Sergio Mariano RAMOS",
+    "usrNum": 7832,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "haragon@epec.com.ar",
+    "usrCod": "MARAGON",
+    "usrNom": "Manuel Aragon",
+    "usrNum": 7852,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "Acardarelli@epec.com.ar",
+    "usrCod": "ACARDARE",
+    "usrNom": "Alde Favio Cardarelli (7859)",
+    "usrNum": 7859,
+    "usrPas": "ALDO"
+  },
+  {
+    "usrCod": "JCOLOMB",
+    "usrNom": "Juan Alberto Colombres",
+    "usrNum": 7863,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "spesci@epec.com.ar",
+    "usrCod": "SPESCI",
+    "usrNom": "Sergio Adrián Pesci (7881)",
+    "usrNum": 7881,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "epec.34924@gmail.com",
+    "usrCod": "JSEGURA",
+    "usrNom": "José Florencio Ramón Segura (7885)",
+    "usrNum": 7885,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "epec.25516@gmail.com",
+    "usrCod": "GCORIA",
+    "usrNom": "German Coria (7886)",
+    "usrNum": 7886,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MPIZZIO",
+    "usrNom": "Mario Alberto Pizzio (7918)",
+    "usrNum": 7918,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "SDEMARIA",
+    "usrNom": "Sebastián Gaspar Demaría",
+    "usrNum": 7930,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "pfirman@epec.com.ar",
+    "usrCod": "PFIRMAN",
+    "usrNom": "Pablo Santiago Firman (7939)",
+    "usrNum": 7939,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "vrodriguez@epec.com.ar",
+    "usrCod": "VRODRIGU",
+    "usrNom": "Verónica Mercedes Rodriguez (7955)",
+    "usrNum": 7955,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jluduena@epec.com.ar",
+    "usrCod": "PLUDUENA",
+    "usrNom": "Juan Pablo Ludue�a",
+    "usrNum": 7956,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "SCAMUSO",
+    "usrNom": "Sandra Rosa Camuso (7964)",
+    "usrNum": 7964,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "ABUENO",
+    "usrNom": "Adriana Carolina Bueno (7970)",
+    "usrNum": 7970,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "LFASSETA",
+    "usrNom": "Leonardo Fasseta (7976)",
+    "usrNum": 7976,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rstaffolani@epec.com.ar",
+    "usrCod": "RSTAFFOL",
+    "usrNom": "Rafael Oscar Staffolani",
+    "usrNum": 7979,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "epec.34032@gmail.com",
+    "usrCod": "DFRANCUC",
+    "usrNom": "Dario Martín Francucci (7987)",
+    "usrNum": 7987,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "ELAZCANO",
+    "usrNom": "Ezequiel Luis Lazcano Giusti (7998)",
+    "usrNum": 7998,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "UMONTOYA",
+    "usrNom": "Ulises Montoya",
+    "usrNum": 8022,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ymoliner@epec.com.ar",
+    "usrCod": "YMOLINER",
+    "usrNom": "Yamila Magalí Moliner (8036)",
+    "usrNum": 8036,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "APINI",
+    "usrNom": "Alejandro Pini",
+    "usrNum": 8037,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fmoran@epec.com.ar",
+    "usrCod": "FMORAN",
+    "usrNom": "Federico Moran",
+    "usrNum": 8038,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "ANIEVA",
+    "usrNom": "Alejandro Nieva",
+    "usrNum": 8087,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "epec.34922@gmail.com",
+    "usrCod": "LCMARTIN",
+    "usrNom": "Lucas Cesar Martinez (8088)",
+    "usrNum": 8088,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gperazzo@epec.com.ar",
+    "usrCod": "GPERAZZO",
+    "usrNom": "Gustavo C.Perazzo",
+    "usrNum": 8090,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "eezulatto@epec.com.ar",
+    "usrCod": "EZULATTO",
+    "usrNom": "Ezequiel Ezulatto",
+    "usrNum": 8093,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mlaurey@epec.com.ar",
+    "usrCod": "MLAUREY",
+    "usrNom": "Maria Rosa Laurey",
+    "usrNum": 8101,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "msiccone@epec.com.ar",
+    "usrCod": "MSICCONE",
+    "usrNom": "Marcela Ester Siccone (8105)",
+    "usrNum": 8105,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MRIVA",
+    "usrNom": "María Ester Dalla Riva (8106)",
+    "usrNum": 8106,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ldemula@epec.com.ar",
+    "usrCod": "LDEMULA",
+    "usrNom": "Luis Eduardo De Mula (8108)",
+    "usrNum": 8108,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "aavila@epec.com.ar",
+    "usrCod": "AAVILA",
+    "usrNom": "Andrea Ilva Avila",
+    "usrNum": 8113,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "froldan@epec.com.ar",
+    "usrCod": "MROLDAN",
+    "usrNom": "ROLDAN MARIA FERNANDA",
+    "usrNum": 8114,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mbonino@epec.com.ar",
+    "usrCod": "MBONINO",
+    "usrNom": "Marco Aurelio Bonino Ibarra (8116)",
+    "usrNum": 8116,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "EGASPARI",
+    "usrNom": "Eladio Gaspari",
+    "usrNum": 8127,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "oalfonso@epec.com.ar",
+    "usrCod": "AALFONSO",
+    "usrNom": "Alfonso Osvaldo Ariel",
+    "usrNum": 8138,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ccepeda@epec.com.ar",
+    "usrCod": "CCEPEDA",
+    "usrNom": "Cesar Cepeda",
+    "usrNum": 8140,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ggodoy@epec.com.ar",
+    "usrCod": "GGODOY",
+    "usrNom": "Gregorio Godoy",
+    "usrNum": 8141,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "ROPEREYR",
+    "usrNom": "Romina Luciana Pereyra (8145)",
+    "usrNum": 8145,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "VOCHOA",
+    "usrNom": "Ivana Valeria Ochoa (8146)",
+    "usrNum": 8146,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "smenendez@epec.com.ar",
+    "usrCod": "SOMENEND",
+    "usrNom": "Soledad Menéndez (8217)",
+    "usrNum": 8217,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jzanchi@epec.com.ar",
+    "usrCod": "JZANCHI",
+    "usrNom": "Juan Carlos Zanchi (8223)",
+    "usrNum": 8223,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "agutierrez@epec.com.ar",
+    "usrCod": "AGUTIERR",
+    "usrNom": "Adrian Gutierrez",
+    "usrNum": 3266,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "federico_lossurgentes@hotmail.com",
+    "usrCod": "FEPEREZ",
+    "usrNom": "Perez Federico",
+    "usrNum": 8228,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "leonardodavidvergara@gmail.com",
+    "usrCod": "LVERGARA",
+    "usrNom": "Vergara Leonardo",
+    "usrNum": 8253,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "vnash@epec.com.ar",
+    "usrCod": "VNASH",
+    "usrNom": "Verónica Andrea Nash (8268)",
+    "usrNum": 8268,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "epec.34030@gmail.com",
+    "usrCod": "GUBOLGER",
+    "usrNom": "Guillermo Bolger (8272)",
+    "usrNum": 8272,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "pgarcia@epec.com.ar",
+    "usrCod": "PGARCIA",
+    "usrNom": "Pablo Luis García (8282)",
+    "usrNum": 8282,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "SJUAREZ",
+    "usrNom": "Sebastián Alberto Juarez (8283)",
+    "usrNum": 8283,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "vrivero@epec.com.ar",
+    "usrCod": "VRIVERO",
+    "usrNom": "Verónica Elizabeth Rivero (8285)",
+    "usrNum": 8285,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MFORESTO",
+    "usrNom": "María Silvestre Foresto Tapia (8286)",
+    "usrNum": 8286,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "epec.34023@gmail.com",
+    "usrCod": "JBOVO",
+    "usrNom": "José Antonio Bovo (8317)",
+    "usrNum": 8317,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "SNUÑEZ",
+    "usrNom": "Sergio Miguel Nuñez (8319)",
+    "usrNum": 8319,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ssauch@epec.com.ar",
+    "usrCod": "SSAUCH",
+    "usrNom": "Sergio Sebastián Sauch (8320)",
+    "usrNum": 8320,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MLLANES",
+    "usrNom": "María Rosa Llanes (8322)",
+    "usrNum": 8322,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "NBERGESI",
+    "usrNom": "Nicolás Gabriel Bergesio (8328)",
+    "usrNum": 8328,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "epec.34031@gmail.com",
+    "usrCod": "DTUCHFEL",
+    "usrNom": "Diego Alberto Tuchfeldt (8345)",
+    "usrNum": 8345,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "asantil@epec.com.ar",
+    "usrCod": "ASANTIL",
+    "usrNom": "Agustin Santillan",
+    "usrNum": 8351,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gcampana@epec.com.ar",
+    "usrCod": "GCAMPANA",
+    "usrNom": "Guillermo Daniel Campana (8354)",
+    "usrNum": 8354,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "epec.34034@gmail.com",
+    "usrCod": "MLOBO",
+    "usrNom": "Marcos Damián Lobo (8365)",
+    "usrNum": 8365,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mflorit@epec.com.ar",
+    "usrCod": "MFLORIT",
+    "usrNom": "Melisa Silvana Florit (8368)",
+    "usrNum": 8368,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "odestru@epec.com.ar",
+    "usrCod": "ODESTRU",
+    "usrNom": "Oscar Alberto Destru (8371)",
+    "usrNum": 8371,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fgutierrez@epec.com.ar",
+    "usrCod": "FAGUTIER",
+    "usrNom": "Fernando Ariel Gutierrez (8381)",
+    "usrNum": 8381,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "nmolinelli@epec.com.ar",
+    "usrCod": "DRIVERA",
+    "usrNom": "Rivera Diego (8388)",
+    "usrNum": 8388,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mlorenzatti@epec.com.ar",
+    "usrCod": "ALORENZA",
+    "usrNom": "Lorenzatti Matias Ariel (8389)",
+    "usrNum": 8389,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "nsoler@epec.com.ar",
+    "usrCod": "NSOLER",
+    "usrNom": "Nicolas Soler",
+    "usrNum": 8395,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "reromero@epec.com.ar",
+    "usrCod": "REROMERO",
+    "usrNom": "Ruben Elias Romero",
+    "usrNum": 8425,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mcorrea@epec.com.ar",
+    "usrCod": "MCORREA",
+    "usrNom": "Mario Ramón Correa",
+    "usrNum": 8437,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "RVASSALL",
+    "usrNom": "Raúl Francisco Vassallo (8449)",
+    "usrNum": 8449,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "elazo@epec.com.ar",
+    "usrCod": "ELAZO",
+    "usrNom": "Lazo Eduardo (8456)",
+    "usrNum": 8456,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ccelis@epec.com.ar",
+    "usrCod": "CCELIS",
+    "usrNom": "Celis, Claudio Tomas Ceferino (8465)",
+    "usrNum": 8465,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "vparrucci@epec.com.ar",
+    "usrCod": "VPARRUCC",
+    "usrNom": "Valdir Parrucci",
+    "usrNum": 8466,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dsilva@epec.com.ar",
+    "usrCod": "FDSILVA",
+    "usrNom": "Fernando Damián Silva (8467)",
+    "usrNum": 8467,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dpisana@epec.com.ar",
+    "usrCod": "DPISANA",
+    "usrNom": "Diego Germán Pisana Rivas (8470)",
+    "usrNum": 8470,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "GPERALTA",
+    "usrNom": "Gustavo Alberto Peralta (8471)",
+    "usrNum": 8471,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MAPEREYR",
+    "usrNom": "Marcos Pereyra",
+    "usrNum": 8479,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gferrarese@epec.com.ar",
+    "usrCod": "GFERRARE",
+    "usrNom": "Guillermo Ferrarese",
+    "usrNum": 8480,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jdandino@epec.com.ar",
+    "usrCod": "JDANDINO",
+    "usrNom": "Juan Manuel Dandino (8482)",
+    "usrNum": 8482,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "pbentivoglio@epec.com.ar",
+    "usrCod": "AMENDEZ",
+    "usrNom": "Arroyo Mendez",
+    "usrNum": 8487,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "crpalaci@epec.com.ar",
+    "usrCod": "CRPALACI",
+    "usrNom": "Cristian Fraga Palacios",
+    "usrNum": 8492,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "spihen@epec.com.ar",
+    "usrCod": "SPIHEN",
+    "usrNom": "Santiago Pihen",
+    "usrNum": 8494,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "hlencinas@epec.com.ar",
+    "usrCod": "HLENCINA",
+    "usrNom": "Hector Lencinas",
+    "usrNum": 8495,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "miturre@epec.com.ar",
+    "usrCod": "MITURRE",
+    "usrNom": "Marcos Iturre",
+    "usrNum": 8526,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fesanchez@epec.com.ar",
+    "usrCod": "FESANCHE",
+    "usrNom": "Fernando Sanchez",
+    "usrNum": 8527,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "eoviedo@epec.com.ar",
+    "usrCod": "EOVIEDO",
+    "usrNom": "Edgardo Oviedo",
+    "usrNum": 8536,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ralderete@epec.com.ar",
+    "usrCod": "RALDERET",
+    "usrNom": "Rodrigo Alderete",
+    "usrNum": 8537,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "hgomez@epec.com.ar",
+    "usrCod": "HGOMEZ",
+    "usrNom": "Hector Hugo Gomez",
+    "usrNum": 8544,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "EFILIPPO",
+    "usrNom": "Emilio Ezequiel Di Filippo",
+    "usrNum": 8551,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mcejas@epec.com.ar",
+    "usrCod": "MCEJAS",
+    "usrNom": "Marcelo Daniel Cejas (8552)",
+    "usrNum": 8552,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "hlobatto@epec.com.ar",
+    "usrCod": "HLOBATTO",
+    "usrNom": "Hernan Lobatto",
+    "usrNum": 8567,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gbornancini@epec.com.ar",
+    "usrCod": "GBORNAN",
+    "usrNom": "German Bornancini",
+    "usrNum": 8568,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "RREGALAO",
+    "usrNom": "Ricardo Roberto Regalao (8583)",
+    "usrNum": 8583,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dvargas@epec.com.ar",
+    "usrCod": "DVARGAS",
+    "usrNom": "Diego Alberto Vargas (8585)",
+    "usrNum": 8585,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JPOGLIOT",
+    "usrNom": "José Gabriel Pogliotto (8592)",
+    "usrNum": 8592,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "hmmoreno@epec.com.ar",
+    "usrCod": "HMMORENO",
+    "usrNom": "Hugo Matias Moreno (8606)",
+    "usrNum": 8606,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "HVILLEGAS",
+    "usrNom": "Victor Hugo Villegas (8610)",
+    "usrNum": 8610,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jpiovano@epec.com.ar",
+    "usrCod": "JPIOVANO",
+    "usrNom": "Jorge Nilo Piovano (8613)",
+    "usrNum": 8613,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gdchino28@gmail.com",
+    "usrCod": "GRIVERO",
+    "usrNom": "Rivero Ramirez  Gustavo David",
+    "usrNum": 8616,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "NLOPEZ",
+    "usrNom": "Nelson Lopez (8621)",
+    "usrNum": 8621,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mmaraschia@epec.com.ar",
+    "usrCod": "MMARASCH",
+    "usrNom": "Maraschia, Marcelo Javier (8623)",
+    "usrNum": 8623,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jbellotti@epec.com.ar",
+    "usrCod": "EBELLOTT",
+    "usrNom": "Bellotti, Jose Eduardo",
+    "usrNum": 8637,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "GSOSA",
+    "usrNom": "Gustavo Sosa (8640)",
+    "usrNum": 8640,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rbertonati@epec.com.ar",
+    "usrCod": "RBERTONA",
+    "usrNom": "Roberto Hernán Bertonati (8641)",
+    "usrNum": 8641,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lvalerio@epec.com.ar",
+    "usrCod": "LVALERIO",
+    "usrNom": "Lucas Valerio (8678)",
+    "usrNum": 8678,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jdenapoli@epec.om.ar",
+    "usrCod": "JDENAPOL",
+    "usrNom": "Juan Jose De Napoli (8684)",
+    "usrNum": 8684,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "egranado@epec.com.ar",
+    "usrCod": "EGRANADO",
+    "usrNom": "Eduardo Granado (8696)",
+    "usrNum": 8696,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "sguayan@epec.com.ar",
+    "usrCod": "CVIDELA",
+    "usrNom": "Videla Claudio Daniel (8702)",
+    "usrNum": 8702,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jlaguero@epec.com.ar",
+    "usrCod": "JLAGUERO",
+    "usrNom": "Jose Luis Aguero",
+    "usrNum": 8717,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "LCEAGLIO",
+    "usrNom": "Luciano Ceaglio (8719)",
+    "usrNum": 8719,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "acampos@epec.com.ar",
+    "usrCod": "ACAMPOS",
+    "usrNom": "Alan Campos (8739)",
+    "usrNum": 8739,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cm@epec.com.ar",
+    "usrCod": "CDMARTIN",
+    "usrNom": "Claudio Martinez (8749)",
+    "usrNum": 8749,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jalopez@epec.com.ar",
+    "usrCod": "JALOPEZ",
+    "usrNom": "Javier Lopez (8755)",
+    "usrNum": 8755,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "LMONTENE",
+    "usrNom": "Conrado Lucas Montenero (8757)",
+    "usrNum": 8757,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mdema@epec.com.ar",
+    "usrCod": "MDEMA",
+    "usrNom": "Marcelo Jose Dema (8773)",
+    "usrNum": 8773,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JISASSAR",
+    "usrNom": "Jose Igancio Sassaroli (8774)",
+    "usrNum": 8774,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "ESASSARO",
+    "usrNom": "Ezequiel Oscar Sassaroli (8775)",
+    "usrNum": 8775,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "emansilla@epec.com.ar",
+    "usrCod": "EMANSIL",
+    "usrNom": "Mansilla Eduardo (8782)",
+    "usrNum": 8782,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "vmerlo@epec.com.ar",
+    "usrCod": "VMERLO",
+    "usrNom": "Vanina Magdalena Merlo Nosotti (8793)",
+    "usrNum": 8793,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "edubini@epec.com.ar",
+    "usrCod": "EDUBINI",
+    "usrNom": "Edgardo Gabriel Dubini (8794)",
+    "usrNum": 8794,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "NBARRION",
+    "usrNom": "Nadia Andrea Barrionuevo (8851)",
+    "usrNum": 8851,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mchiacchio@epec.com.ar",
+    "usrCod": "MCHIACCH",
+    "usrNom": "Marcos Chiachio (8852)",
+    "usrNum": 8852,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mortiz@epec.com.ar",
+    "usrCod": "MORTIZ",
+    "usrNom": "Manuel Ortiz (8853)",
+    "usrNum": 8853,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "joliva@epec.com.ar",
+    "usrCod": "JOLIVA",
+    "usrNom": "Jorge Oliva (8855)",
+    "usrNum": 8855,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rperalta@epec.com.ar",
+    "usrCod": "RPERALTA",
+    "usrNom": "Rodolfo Peralta (8856)",
+    "usrNum": 8856,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "csantucho@epec.com.ar",
+    "usrCod": "CSANTUCH",
+    "usrNom": "Carlos Santucho (8857)",
+    "usrNum": 8857,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "juanmanuelmarquez711@gmail.com",
+    "usrCod": "JMARQUEZ",
+    "usrNom": "Marquez Juan Manuel",
+    "usrNum": 8863,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "pghiano@epec.com.ar",
+    "usrCod": "PGHIANO",
+    "usrNom": "Pedro Ghiano",
+    "usrNum": 9141,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "AVILLAGR",
+    "usrNom": "Angel Villagra",
+    "usrNum": 9316,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jalmada@epec.com.ar",
+    "usrCod": "JALMADA",
+    "usrNom": "Jorge Alejandro Almada (Consultor)",
+    "usrNum": 9440,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cserra@epec.com.ar",
+    "usrCod": "CSERRA",
+    "usrNom": "Carlos serra",
+    "usrNum": 9474,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "RSALGADO",
+    "usrNom": "Ricardo Mario Salgado (9477)",
+    "usrNum": 9477,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "ASOSA",
+    "usrNom": "Anibal Abel Sosa (9498)",
+    "usrNum": 9498,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JVARGAS",
+    "usrNom": "Jose Luis Vargas",
+    "usrNum": 9541,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "AFIGUERO",
+    "usrNom": "Arturo Figueroa",
+    "usrNum": 9557,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JCVILLAG",
+    "usrNom": "Juan Cruz Villagra (9589)",
+    "usrNum": 9589,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JHGOMEZ",
+    "usrNom": "Jorge Hugo Gómez (9605)",
+    "usrNum": 9605,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jarijon@epec.com.ar",
+    "usrCod": "JARIJON",
+    "usrNom": "Juan I.Arijon",
+    "usrNum": 9665,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "RRANDO",
+    "usrNom": "Roberto Rando",
+    "usrNum": 9699,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ndelgado@epec.com.ar",
+    "usrCod": "NDELGADO",
+    "usrNom": "Nestor Orlando Delgado (9730)",
+    "usrNum": 9730,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JCATRACC",
+    "usrNom": "Julio Catracchia",
+    "usrNum": 9762,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jbulacio@epec.com.ar",
+    "usrCod": "JBULACIO",
+    "usrNom": "Juan Bulacio",
+    "usrNum": 9767,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ajuarez@epec.com.ar",
+    "usrCod": "AJUAREZ",
+    "usrNom": "Angel Ruben Juarez",
+    "usrNum": 9768,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dolivier@epec.com.ar",
+    "usrCod": "DOLIVIER",
+    "usrNom": "Daniel Esteban Olivier (9828)",
+    "usrNum": 9828,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JLUDUENA",
+    "usrNom": "Jorge Luduena",
+    "usrNum": 9936,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "RGRENON",
+    "usrNom": "Roberto A. Grenon",
+    "usrNum": 9939,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gestevez@epec.com.ar",
+    "usrCod": "GESTEVEZ",
+    "usrNom": "Gustavo Estevez",
+    "usrNum": 9988,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "MSANCHE@EPEC.COM.AR",
+    "usrCod": "MSANCHE",
+    "usrNom": "Mauricio Sanchez (10002)",
+    "usrNum": 10002,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "FBUENO",
+    "usrNom": "Fabian Bueno (10005)",
+    "usrNum": 10005,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "DSALAS",
+    "usrNom": "Salas Diego Ruben (10018)",
+    "usrNum": 10018,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "pirucermi@hotmail.com",
+    "usrCod": "MCERMINA",
+    "usrNom": "Cerminato Mariano",
+    "usrNum": 10025,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mpiersimoni@epec.com.ar",
+    "usrCod": "MPIERSIM",
+    "usrNom": "Piersimoni, Mariano Andres (10027)",
+    "usrNum": 10027,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mmendoza@epec.com.ar",
+    "usrCod": "MMENDOZA",
+    "usrNom": "Maria Carolina Mendoza (10034)",
+    "usrNum": 10034,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "CBUSTOS",
+    "usrNom": "Ana Carolina Bustos (10059)",
+    "usrNum": 10059,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "murbani@epec.com.ar",
+    "usrCod": "MURBANI",
+    "usrNom": "Matias Exequiel Urbani (10103)",
+    "usrNum": 10103,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mauriciodeidda222@gmail.com",
+    "usrCod": "MDEIDDA",
+    "usrNom": "Deidda Mauricio Oscar",
+    "usrNum": 10108,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mauriciogait29@gmail.com",
+    "usrCod": "MGAIT",
+    "usrNom": "Gait Mauricio Efrain",
+    "usrNum": 10115,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "framos@epec.com.ar",
+    "usrCod": "FRAMOS",
+    "usrNom": "Ramos Franco (10125)",
+    "usrNum": 10125,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "PGENNARI",
+    "usrNom": "Gennari, Pablo Javier (10128)",
+    "usrNum": 10128,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "anavarro@epec.com.ar",
+    "usrCod": "ABERMEJO",
+    "usrNom": "Alejandra Navarro Bermejo (10131)",
+    "usrNum": 10131,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "vvargas@epec.com.ar",
+    "usrCod": "VVARGAS",
+    "usrNom": "Victoria Vargas (10167)",
+    "usrNum": 10167,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "ARGOMEZ",
+    "usrNom": "Ariel Gomez (10174)",
+    "usrNum": 10174,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "CFARIAS",
+    "usrNom": "Celina Ruth Farias (10176)",
+    "usrNum": 10176,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "LJORTIZ",
+    "usrNom": "Leila Jaquelina Ortiz (10177)",
+    "usrNum": 10177,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "nzalazar@epec.com.ar",
+    "usrCod": "NZALAZAR",
+    "usrNom": "Nicolas Zalazar (10178)",
+    "usrNum": 10178,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jabuffa@epec.com.ar",
+    "usrCod": "JABUFFA",
+    "usrNom": "Javier Buffa (10182)",
+    "usrNum": 10182,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JACARRER",
+    "usrNom": "Javier Carrera (10183)",
+    "usrNum": 10183,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gsusino@epec.com.ar",
+    "usrCod": "GSUSINO",
+    "usrNom": "German Susino (10188)",
+    "usrNum": 10188,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ssecchi@epec.com.ar",
+    "usrCod": "SSECCHI",
+    "usrNom": "Sergio Secchi (10190)",
+    "usrNum": 10190,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fcarrizo@epec.com.ar",
+    "usrCod": "FCARRIZO",
+    "usrNom": "Franco Carrizo (10191)",
+    "usrNum": 10191,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "crumi@epec.com.ar",
+    "usrCod": "CRUMI",
+    "usrNom": "Claudio Rumi (10192)",
+    "usrNum": 10192,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dperalta636@hotmail.com",
+    "usrCod": "DPERALTA",
+    "usrNom": "Peralta David",
+    "usrNum": 10193,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ccamara@epec.com.ar",
+    "usrCod": "CCAMARA",
+    "usrNom": "Carlos Camara (10201)",
+    "usrNum": 10201,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "pbarchiesi@epec.com.ar",
+    "usrCod": "PBARCHIE",
+    "usrNom": "Barchiesi, Pablo Andres",
+    "usrNum": 10251,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cgranado@epec.com.ar",
+    "usrCod": "CAGRANAD",
+    "usrNom": "Carlos Alberto Granados (10259)",
+    "usrNum": 10259,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "pacevedo@epec.com.ar",
+    "usrCod": "PACEVEDO",
+    "usrNom": "Pablo Acevedo (10264)",
+    "usrNum": 10264,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jmacosta@epec.com.ar",
+    "usrCod": "JMACOSTA",
+    "usrNom": "Jose Maria Acosta (10267)",
+    "usrNum": 10267,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rodrigomondello@live.com",
+    "usrCod": "RMONDELL",
+    "usrNom": "Mondello Rodrigo",
+    "usrNum": 10268,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mluchini@epec.com.ar",
+    "usrCod": "MLUCHINI",
+    "usrNom": "Monica Luchini (10290)",
+    "usrNum": 10290,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dmenseguez@epec.com.ar",
+    "usrCod": "DMENSEGU",
+    "usrNom": "David Menseguez (10302)",
+    "usrNum": 10302,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "JHORMAEC",
+    "usrNom": "Juan Ignacio Hormaeche (10316)",
+    "usrNum": 10316,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "PBAREA",
+    "usrNom": "Pablo Barea (10323)",
+    "usrNum": 10323,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mantebelli@gmail.com",
+    "usrCod": "GBELLI",
+    "usrNom": "Belli German",
+    "usrNum": 10329,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MGALLARD",
+    "usrNom": "Myriam Lorena Gallardo (10338)",
+    "usrNum": 10338,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "CMERCADO",
+    "usrNom": "Carlos Mercado (10346)",
+    "usrNum": 10346,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cadiaz@epec.com.ar",
+    "usrCod": "CADIAZ",
+    "usrNom": "Carlos Andres Diaz (10349)",
+    "usrNum": 10349,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mburgos@epec.com.ar",
+    "usrCod": "MBURGOS",
+    "usrNom": "Miguel Burgos (10370)",
+    "usrNum": 10370,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mbritos@epec.com.ar",
+    "usrCod": "MBRITOS",
+    "usrNom": "Marcelo Gustavo Britos (10371)",
+    "usrNum": 10371,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "falmada@epec.com.ar",
+    "usrCod": "FALMADA",
+    "usrNom": "Franco Almada (10388)",
+    "usrNum": 10388,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mvaudagna@epec.com.ar",
+    "usrCod": "MVAUDAG",
+    "usrNom": "Vaudagna Mauro (10391)",
+    "usrNum": 10391,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "clgomez@epec.com.ar",
+    "usrCod": "CLGOMEZ",
+    "usrNom": "Claudio Martin Gomez",
+    "usrNum": 10400,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fbrun@epec.com.ar",
+    "usrCod": "FBRUN",
+    "usrNom": "Federico Brun (10403)",
+    "usrNum": 10403,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "apepperno@epec.com.ar",
+    "usrCod": "APEPPERN",
+    "usrNom": "PEPPERNO, Venessio Anibal (10404)",
+    "usrNum": 10404,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "frferraro@epec.com.ar",
+    "usrCod": "FRFERRARO",
+    "usrNom": "Franco Nicolas Ferraro",
+    "usrNum": 10478,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "emedina@epec.com.ar",
+    "usrCod": "EGMEDINA",
+    "usrNom": "Medina Ezequiel Gaston (10479)",
+    "usrNum": 10479,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "majuarez@epec.com.ar",
+    "usrCod": "MAJUAREZ",
+    "usrNom": "Mario Alberto Juarez (10481)",
+    "usrNum": 10481,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lserrano@epec.com.ar",
+    "usrCod": "LSERRANO",
+    "usrNom": "Serrano Lucas (10501)",
+    "usrNum": 10501,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mzanotti@epec.com.ar",
+    "usrCod": "MZANOTTI",
+    "usrNom": "Zanotti, Maria de Lourdes (10538)",
+    "usrNum": 10538,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ezanotto@epec.com.ar",
+    "usrCod": "EZANOTTO",
+    "usrNom": "Zanotto, Ezequiel (10548)",
+    "usrNum": 10548,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MMITTINO",
+    "usrNom": "Mittino, Martin Edgardo (10549)",
+    "usrNum": 10549,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "frivero@epec.com.ar",
+    "usrCod": "FRIVERO",
+    "usrNom": "Franco Rivero (10565)",
+    "usrNum": 10565,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mmmaldonado@epec.com.ar",
+    "usrCod": "MMMALDON",
+    "usrNom": "Maldonado, Maxim. Miguel (10577)",
+    "usrNum": 10577,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "SEPEREZ",
+    "usrNom": "Perez, Sebastian (10581)",
+    "usrNum": 10581,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jfreytes@epec.com.ar",
+    "usrCod": "JFREYTES",
+    "usrNom": "Jorge Enrique Freytes (10587)",
+    "usrNum": 10587,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ffontanarrosa@epec.com.ar",
+    "usrCod": "FFONTANA",
+    "usrNom": "Fontanarrosa Fernando (10641) DNI 35.636.727",
+    "usrNum": 10641,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dochoa@epec.com.ar",
+    "usrCod": "DOCHOA",
+    "usrNom": "Diego Augusto Ochoa",
+    "usrNum": 10710,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "LUBRANCO",
+    "usrNom": "Brancolini Sarmiento, Luis Lorenzo (10721)",
+    "usrNum": 10721,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "nreyna@epec.com.ar",
+    "usrCod": "NREYNA",
+    "usrNom": "Neuen Reyna (10722)",
+    "usrNum": 10722,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mchirinos@epec.com.ar",
+    "usrCod": "MCHIRINO",
+    "usrNom": "Chirinos, Matias Alberto",
+    "usrNum": 10732,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "pgil@epec.com.ar",
+    "usrCod": "PGIL",
+    "usrNom": "Gil, Pablo Sebastian",
+    "usrNum": 10733,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jidiaz@epec.com.ar",
+    "usrCod": "JIDIAZ",
+    "usrNom": "Javier Ignacio Diaz (10772)",
+    "usrNum": 10772,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "abarrera@epec.com.ar",
+    "usrCod": "ABARRERA",
+    "usrNom": "Barrera Alejandro (10789)",
+    "usrNum": 10789,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "adacol@epec.com.ar",
+    "usrCod": "ADACOL",
+    "usrNom": "Ayelen Soledad Da Col (10799)",
+    "usrNum": 10799,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jurodriguez@epec.com",
+    "usrCod": "DPIZARRO",
+    "usrNom": "Pizarro Dardo (10801)",
+    "usrNum": 10801,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mponce@epec.com.ar",
+    "usrCod": "MPONCE",
+    "usrNom": "Ponce Guzman, Mauricio Leandro (10802)",
+    "usrNum": 10802,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "TBAIGORR",
+    "usrNom": "Baigorria, Tania Salome (10803)",
+    "usrNum": 10803,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lparedes@epec.com.ar",
+    "usrCod": "LPAREDES",
+    "usrNom": "Paredes Leonardo Damian (10804)",
+    "usrNum": 10804,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jnavarro@epec.com.ar",
+    "usrCod": "JNAVARRO",
+    "usrNom": "Navarro, Juan Cruz (10805)",
+    "usrNum": 10805,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fpiana@epec.com.ar",
+    "usrCod": "FPIANA",
+    "usrNom": "Piana, Francisco Jose (10806)",
+    "usrNum": 10806,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "raguero@epec.com.ar",
+    "usrCod": "RAGUERO",
+    "usrNom": "Aguero, Rolando Gustavo (10835)",
+    "usrNum": 10835,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dbonardo@epec.com.ar",
+    "usrCod": "DBONARDO",
+    "usrNom": "BONARDO, Diego Fabian",
+    "usrNum": 10838,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rcarasa@epec.com.ar",
+    "usrCod": "RCARASA",
+    "usrNom": "Rogelio Carasa (10840)",
+    "usrNum": 10840,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dcuello@epec.com.ar",
+    "usrCod": "DCUELLO",
+    "usrNom": "Dario Cuello (10878)",
+    "usrNum": 10878,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lclavero@epec.com.ar",
+    "usrCod": "LCLAVERO",
+    "usrNom": "Clavero Leonardo (10916)",
+    "usrNum": 10916,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mperazzo@epec.com.ar",
+    "usrCod": "MPERAZZO",
+    "usrNom": "PERAZZO, Maria Valentina (10923)",
+    "usrNum": 10923,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "NCORDOB",
+    "usrNom": "Nadia Emilse Cordoba (10924)",
+    "usrNum": 10924,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rmoretta@epec.com.ar",
+    "usrCod": "RMORETTA",
+    "usrNom": "Luciano Ramon Moretta (10951)",
+    "usrNum": 10951,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cguazzini@epec.com.ar",
+    "usrCod": "CGUAZZINI",
+    "usrNom": "Guazzini Cesar Oscar",
+    "usrNum": 10967,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "malmarti@epec.com.ar",
+    "usrCod": "AMOYANO",
+    "usrNom": "Carlos Alejandro Moyano",
+    "usrNum": 10968,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "FAPEZTE",
+    "usrNom": "Apezteguia Federico (10970)",
+    "usrNum": 10970,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "epec.34921@gmail.com",
+    "usrCod": "HPERALTA",
+    "usrNom": "Peralta Hernan (10981)",
+    "usrNum": 10981,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "epec.34923@gmail.com",
+    "usrCod": "MGUZMAN",
+    "usrNom": "Guzman Manuel (10982)",
+    "usrNum": 10982,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "epec.34927@gmail.com",
+    "usrCod": "DBARRERA",
+    "usrNom": "Barrera Diego (10983)",
+    "usrNum": 10983,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gcarballo@epec.com.ar",
+    "usrCod": "GCARBALLO",
+    "usrNom": "GERMAN EZEQUIEL CARBALLO (10986)",
+    "usrNum": 10986,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "CRROMERO",
+    "usrNom": "ROMERO, Cristian (11000)",
+    "usrNum": 11000,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "ECIARAME",
+    "usrNom": "CIARAMELLA, Emiliano Legajo (11001)",
+    "usrNum": 11001,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cbracamonte@epec.com.ar",
+    "usrCod": "CBRACA",
+    "usrNom": "Bracamonte Carlos (11014)",
+    "usrNum": 11014,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MAURODRI",
+    "usrNom": "Rodriguez, Mauro Manuel Federico (11017)",
+    "usrNum": 11017,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "bmendez@epec.com.ar",
+    "usrCod": "BMENDEZ",
+    "usrNom": "Mendez Arroyo, Braian Abraham (11018)",
+    "usrNum": 11018,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jurodrigurz@epec.com.ar",
+    "usrCod": "FRSOSA",
+    "usrNom": "Sosa Franco (11036)",
+    "usrNum": 11036,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MPRIETO",
+    "usrNom": "Prieto, Matías (11042)",
+    "usrNum": 11042,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "LPALACI",
+    "usrNom": "Lazaro Palacio (11063)",
+    "usrNum": 11063,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ggaetan@epec.com.ar",
+    "usrCod": "EGAETAN",
+    "usrNom": "Gaetan Gabriel Esequiel (11071)",
+    "usrNum": 11071,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "SNORIEGA",
+    "usrNom": "Noriega, Santiago (11080)",
+    "usrNum": 11080,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "MPERAL",
+    "usrNom": "Peralta, Mario (11081)",
+    "usrNum": 11081,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "CROSSI",
+    "usrNom": "ROSSI CESAR FEDERICO (11087)",
+    "usrNum": 11087,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "hcordoba@epec.com.ar",
+    "usrCod": "HCORDOBA",
+    "usrNom": "HUGO ARIEL CORDOBA",
+    "usrNum": 11097,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lcasanoves@epec.com",
+    "usrCod": "LCASANO",
+    "usrNom": "Casanoves Lucila (11102)",
+    "usrNum": 11102,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "vripoll@epec.com.ar",
+    "usrCod": "RBRION",
+    "usrNom": "Brion Rodrigo (11144)",
+    "usrNum": 11144,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "abonetto@epec.com.ar",
+    "usrCod": "ABONETTO",
+    "usrNom": "Alejandro Bonetto",
+    "usrNum": 11153,
+    "usrPas": "PASS"
+  },
+  {
+    "usrCod": "GONZAPAZ",
+    "usrNom": "Moyano Paz Gonzalo (11169)",
+    "usrNum": 11169,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fbarrale@epec.com.ar",
+    "usrCod": "FBARRALE",
+    "usrNom": "Francisco Eduardo Barrale (11170)",
+    "usrNum": 11170,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "pfperez@epec.com.ar",
+    "usrCod": "PFPEREZ",
+    "usrNom": "Pablo Federico Perez (11255)",
+    "usrNum": 11255,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fcerda@epec.com.ar",
+    "usrCod": "FCERDA",
+    "usrNom": "Franco Ezequiel Cerda (11256)",
+    "usrNum": 11256,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gbergoglio@epec.com.ar",
+    "usrCod": "GBERGOG",
+    "usrNom": "BERGOGLIO GASTON (11266)",
+    "usrNum": 11266,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mquiroga@epec.com.ar",
+    "usrCod": "MQUIROGA",
+    "usrNom": "Quiroga Mauricio Alejandro (11268)",
+    "usrNum": 11268,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "bponce@epec.com.ar",
+    "usrCod": "BPONCE",
+    "usrNom": "Gonzalez Ponce Brian (11269)",
+    "usrNum": 11269,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooperativa.prestataria@epec.com.ar",
+    "usrCod": "COOPLYF",
+    "usrNom": "COOP. DE LYF LTDA.",
+    "usrNum": 90005,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "conectar.prestataria@epec.com.ar",
+    "usrCod": "CONECTAR",
+    "usrNom": "CONECTAR S.R.L.",
+    "usrNum": 90006,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.7.conectar@gmail.com",
+    "usrCod": "VCORCINO",
+    "usrNom": "Usuarios Externo  Vega Ramón Corcino - Contratador Conectar",
+    "usrNum": 90057,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.1.conectar@gmail.com",
+    "usrCod": "MALTERIO",
+    "usrNom": "Alterio Mariano Gabriel (24073794) Usuarios Externo ",
+    "usrNum": 90058,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.2.conectar@gmail.com",
+    "usrCod": "PMANTUA",
+    "usrNom": "Mantuano Pablo (26089037) Usuarios Externo ",
+    "usrNum": 90059,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.4.conectar@gmail.com",
+    "usrCod": "CGUGLIEL",
+    "usrNom": "Cristian Guglielmi (90060) Usuarios Externo ",
+    "usrNum": 90060,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.5.conectar@gmail.com",
+    "usrCod": "LHIDALGO",
+    "usrNom": "Leonado Hidalgo (90061) Usuarios Externo ",
+    "usrNum": 90061,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.8.conectar@gmail.com",
+    "usrCod": "RUSANCHE",
+    "usrNom": "Sánchez Rubén DNI 24841245",
+    "usrNum": 90062,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.9.conectar@gmail.com",
+    "usrCod": "IMEDINA",
+    "usrNom": "Medina Ivan DNI 29964205",
+    "usrNum": 90063,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios11.conectar@gmail.com",
+    "usrCod": "ALNIEVE",
+    "usrNom": "Nieves Alexis DNI 36145291",
+    "usrNum": 90064,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.12.conectar@gmail.com",
+    "usrCod": "MEMENDOZ",
+    "usrNom": "Mendoza Miguel DNI 32346332",
+    "usrNum": 90065,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.13.conectar@gmail.com",
+    "usrCod": "SIOVIEDO",
+    "usrNom": "Oviedo Silvio DNI 32458651",
+    "usrNum": 90066,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.14.conectar@gmail.com",
+    "usrCod": "ERIVAROL",
+    "usrNom": "Rivarola Eduardo DNI 12669343",
+    "usrNum": 90067,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.10.conectar@gmail.com",
+    "usrCod": "MARCGONZ",
+    "usrNom": "González Marcos DNI 32425441",
+    "usrNum": 90068,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.15.conectar@gmail.com",
+    "usrCod": "IOLIVERA",
+    "usrNom": "Olivera Ignacio Daniel (90070) Contratado Conectar",
+    "usrNum": 90070,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.16.conectar@gmail.com",
+    "usrCod": "ANEMESIO",
+    "usrNom": "Fernández Adrián Nemesio - (90071) Contratado Conectar",
+    "usrNum": 90071,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.17.conectar@gmail.com",
+    "usrCod": "MPEDRAZA",
+    "usrNom": "Pedraza Marcelo - (90072) Contratado Conectar",
+    "usrNum": 90072,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mariotapia351@gmail.com",
+    "usrCod": "MTAPIA",
+    "usrNom": "Mario Armando Tapia - (90073) Contrado Coop. Luz y Fza",
+    "usrNum": 90073,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "omargonza1972@gmail.com",
+    "usrCod": "OGONZALEZ",
+    "usrNom": "Omar Gonzalez - (90074) Contrado Coop. Luz y Fza",
+    "usrNum": 90074,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ingnavarro2102@gmail.com",
+    "usrCod": "LNAVARRO",
+    "usrNom": "Jose Luis Navarro - (90075) Contrado Coop. Luz y Fza",
+    "usrNum": 90075,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.20.conectar@gmail.com",
+    "usrCod": "JPROCHI",
+    "usrNom": "Rochi Juan Pablo (90076)",
+    "usrNum": 90076,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.18.conectar@gmail.com",
+    "usrCod": "MMORETTA",
+    "usrNom": "Moretta Marcos (90077)",
+    "usrNum": 90077,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.19.conectar@gmail.com",
+    "usrCod": "JARIAS",
+    "usrNom": "Arias Javier (90078)",
+    "usrNum": 90078,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.21.conectar@gmail.com",
+    "usrCod": "ALANDIRE",
+    "usrNom": "Andres Ivan Flores Landires (90079)",
+    "usrNum": 90079,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.22.conectar@gmail.com",
+    "usrCod": "GBRIOZZO",
+    "usrNom": "Gaston Guillermo Briozzo (90080)",
+    "usrNum": 90080,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.23.conectar@gmail.com",
+    "usrCod": "MLEANIZ",
+    "usrNom": "Mayra Patricia Leaniz (90081)",
+    "usrNum": 90081,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "guzmanclaudiocoop@gmail.com",
+    "usrCod": "CLGUZMAN",
+    "usrNom": "Claudio Guzman (90082)",
+    "usrNum": 90082,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fassettaagustincoop@gmail.com",
+    "usrCod": "AFASSETA",
+    "usrNom": "Agustin Fasseta (90083)",
+    "usrNum": 90083,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "arguellomarcoscoop@gmail.com",
+    "usrCod": "MARARGU",
+    "usrNom": "Marcos Arguello (90084)",
+    "usrNum": 90084,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "bustosmarianocoop@gmail.com",
+    "usrCod": "MABUSTOS",
+    "usrNom": "Mariano Bustos (90085)",
+    "usrNum": 90085,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cruzdantecoop@gmail.com",
+    "usrCod": "DCRUZ",
+    "usrNom": "Dante Cruz (90086)",
+    "usrNum": 90086,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "carlosavendanocoop@gmail.com",
+    "usrCod": "CAVENDA",
+    "usrNom": "Carlos Avendaño (90087)",
+    "usrNum": 90087,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "albertogonzalezcoop@gmail.com",
+    "usrCod": "AGONZAL",
+    "usrNom": "Alberto Gonzalez (90088)",
+    "usrNum": 90088,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "martinezraulcoop@gmail.com",
+    "usrCod": "RMARTI",
+    "usrNom": "Raul Martinez (90089)",
+    "usrNum": 90089,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "sandripablocoop@gmail.com",
+    "usrCod": "PSANDRI",
+    "usrNom": "Pablo Sandri (90090)",
+    "usrNum": 90090,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dahergustavocoop@gmail.com",
+    "usrCod": "GDAER",
+    "usrNom": "Gustavo Daer (90091)",
+    "usrNum": 90091,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "angelhonorescoop@gmail.com",
+    "usrCod": "AHONORES",
+    "usrNom": "Angel Honores (90092)",
+    "usrNum": 90092,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "paulbarrioscoop@gmail.com",
+    "usrCod": "PBARRIOS",
+    "usrNom": "Paul Barrios (90093)",
+    "usrNum": 90093,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "marcospedroccacoop@gmail.com",
+    "usrCod": "MPEDROCA",
+    "usrNom": "Marcos Pedroca (90094)",
+    "usrNum": 90094,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dariodiazcoop@gmail.com",
+    "usrCod": "DADIAZ",
+    "usrNom": "Dario Diaz (90095)",
+    "usrNum": 90095,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "marcelomoyanocoop@gmail.com",
+    "usrCod": "MMOYANO",
+    "usrNom": "Marcelo Moyano (90096)",
+    "usrNum": 90096,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "joelmartinezcoop@gmail.com",
+    "usrCod": "JMARTIN",
+    "usrNom": "Joel Martinez (90097)",
+    "usrNum": 90097,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "agustincordobacoop@gmail.com",
+    "usrCod": "ACORDO",
+    "usrNom": "Agustin Cordoba (90098)",
+    "usrNum": 90098,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "moralesjaviercoop@gmail.com",
+    "usrCod": "LMORALE",
+    "usrNom": "Javier Morales (90099)",
+    "usrNum": 90099,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "tomastapiacoop@gmail.com",
+    "usrCod": "TTAPIA",
+    "usrNom": "Tomas Tapia (90100)",
+    "usrNum": 90100,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rubendominguezcoop@gmail.com",
+    "usrCod": "RUDOMING",
+    "usrNom": "Ruben Dominguez (90101)",
+    "usrNum": 90101,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.25.conectar@gmail.com",
+    "usrCod": "VMACHADO",
+    "usrNom": "MACHADO VICTOR (90102)",
+    "usrNum": 90102,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.29.conectar@gmail.com",
+    "usrCod": "EOCANO",
+    "usrNom": "OCAÑO ERIC (90103)",
+    "usrNum": 90103,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.27.conectar@gmail.com",
+    "usrCod": "ECISNERO",
+    "usrNom": "CISNERO ESTEBAN (90104)",
+    "usrNum": 90104,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.24.conectar@gmail.com",
+    "usrCod": "TSUAREZ",
+    "usrNom": "SUAREZ TITO (90105)",
+    "usrNum": 90105,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "danielcruzcoop@gmail.com",
+    "usrCod": "DACRUZ",
+    "usrNom": "Daniel Cruz (90106)",
+    "usrNum": 90106,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gallotticoop@gmail.com",
+    "usrCod": "GGALLOTT",
+    "usrNom": "Gabriel Gallotti (90107)",
+    "usrNum": 90107,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gallotinelson@gmail.com",
+    "usrCod": "NGALLOTT",
+    "usrNom": "Nelson Gallotti (90108)",
+    "usrNum": 90108,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.37.conectar@gmail.com",
+    "usrCod": "DARGUELL",
+    "usrNom": "Diego Arguello (90109)",
+    "usrNum": 90109,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.38.conectar@gmail.com",
+    "usrCod": "ACEPEDA",
+    "usrNom": "Alexis Cepeda (90110)",
+    "usrNum": 90110,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.39.conectar@gmail.com",
+    "usrCod": "ESGAUNA",
+    "usrNom": "Esteban Gauna (90111)",
+    "usrNum": 90111,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.40.conectar@gmail.com",
+    "usrCod": "ALCUELLO",
+    "usrNom": "Alejandro Cuello (90112)",
+    "usrNum": 90112,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.41.conectar@gmail.com",
+    "usrCod": "SGIORDAN",
+    "usrNom": "Salvador Giordano (90113)",
+    "usrNum": 90113,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.32.conectar@gmail.com",
+    "usrCod": "GESPINDO",
+    "usrNom": "ESPINDOLA GABRIEL (90117)",
+    "usrNum": 90117,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.33.conectar@gmail.com",
+    "usrCod": "LTELLO",
+    "usrNom": "TELLO LUCAS (90118)",
+    "usrNum": 90118,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.34.conectar@gmail.com",
+    "usrCod": "MCASTI",
+    "usrNom": "MAXI CASTILLO (90119)",
+    "usrNum": 90119,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.35.conectar@gmail.com",
+    "usrCod": "MIGGOMEZ",
+    "usrNom": "Gomez Miguel (90120)",
+    "usrNum": 90120,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.36.conectar@gmail.com",
+    "usrCod": "DAREVALO",
+    "usrNom": "Arévalo Diego (90121)",
+    "usrNum": 90121,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.42.conectar@gmail.com",
+    "usrCod": "GMANSI",
+    "usrNom": "MANSILLA GUSTAVO (90122)",
+    "usrNum": 90122,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.43.conectar@gmail.com",
+    "usrCod": "AISQUI",
+    "usrNom": "ISQUIERDO ANTONIO (90124)",
+    "usrNum": 90124,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.44.conectar@gmail.com",
+    "usrCod": "EBRACA",
+    "usrNom": "BRACAMONTE  EMANUEL (90125)",
+    "usrNum": 90125,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.45.conectar@gmail.com",
+    "usrCod": "OQUIROGA",
+    "usrNom": "QUIROGA OSCAR (90126)",
+    "usrNum": 90126,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.46.conectar@gmail.com",
+    "usrCod": "NROME",
+    "usrNom": "ROMERO NAHUEL (90127)",
+    "usrNum": 90127,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.47.conectar@gmail.com",
+    "usrCod": "FRIVARO",
+    "usrNom": "RIVAROLA FARID (90128)",
+    "usrNum": 90128,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.48.conectar@gmail.com",
+    "usrCod": "DPASTORI",
+    "usrNom": "PASTORINO DIEGO (90129)",
+    "usrNum": 90129,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.49.conectar@gmail.com",
+    "usrCod": "MDEVALLE",
+    "usrNom": "DEVALLE MAXIMILIANO (90130)",
+    "usrNum": 90130,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.50.conectar@gmail.com",
+    "usrCod": "MSANTUCH",
+    "usrNom": "SANTUCHO MAICO (90131)",
+    "usrNum": 90131,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.51.conectar@gmail.com",
+    "usrCod": "LBARRER",
+    "usrNom": "BARRERAS LUCAS (90132)",
+    "usrNum": 90132,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.52.conectar@gmail.com",
+    "usrCod": "COLMEDO",
+    "usrNom": "OLMEDO CARLOS (90133)",
+    "usrNum": 90133,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.53.conectar@gmail.com",
+    "usrCod": "DCAMINOS",
+    "usrNom": "CAMINOS DIEGO (90134)",
+    "usrNum": 90134,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "supervisor.loza.r4@gmail.com",
+    "usrCod": "CMINERVI",
+    "usrNom": "MINERVINI, CLEMENTE (90135)",
+    "usrNum": 90135,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cuadrilla1.loza.r4@gmail.com",
+    "usrCod": "FBARRIO",
+    "usrNom": "BARRIO, FRANCO (90136)",
+    "usrNum": 90136,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cuadrilla2.loza.r4@gmail.com",
+    "usrCod": "CIBANEZ",
+    "usrNom": "IBAÑEZ, CRISTIAN (90137)",
+    "usrNum": 90137,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.54.conectar@gmail.com",
+    "usrCod": "AMERCAD",
+    "usrNom": "Alan Mercado (90138)",
+    "usrNum": 90138,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.55.conectar.old@gmail.com",
+    "usrCod": "NBRACAMOLD",
+    "usrNom": "Nahuel Bracamonte OLD (90139)",
+    "usrNum": -90139,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.56.conectar@gmail.com",
+    "usrCod": "FEDPONCE",
+    "usrNom": "Federico Ponce de Leon (90144)",
+    "usrNum": 90144,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rcalderon@epec.com.ar",
+    "usrCod": "FLUNA",
+    "usrNom": "Luna, Fernando Luis (10572)",
+    "usrNum": 10572,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "zaldivarcoop@gmail.com",
+    "usrCod": "AZALDIVAR",
+    "usrNom": "Agustín Nicolás Zaldivar (90148)",
+    "usrNum": 90148,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooplyf1@gmail.com",
+    "usrCod": "COOPLYF1",
+    "usrNom": "Usuario Externo Coop LYF 1",
+    "usrNum": 90171,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooplyf2@gmail.com",
+    "usrCod": "COOPLYF2",
+    "usrNom": "Usuario Externo Coop LYF 2",
+    "usrNum": 90172,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooplyf3@gmail.com",
+    "usrCod": "COOPLYF3",
+    "usrNom": "Usuario Externo Coop LYF 3",
+    "usrNum": 90173,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooplyf4@gmail.com",
+    "usrCod": "COOPLYF4",
+    "usrNom": "Usuario Externo Coop LYF 4",
+    "usrNum": 90174,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooplyf5@gmail.com",
+    "usrCod": "COOPLYF5",
+    "usrNom": "Usuario Externo Coop LYF 5",
+    "usrNum": 90175,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooplyf6@gmail.com",
+    "usrCod": "COOPLYF6",
+    "usrNom": "Usuario Externo Coop LYF 6",
+    "usrNum": 90176,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooplyf7@gmail.com",
+    "usrCod": "COOPLYF7",
+    "usrNom": "Usuario Externo Coop LYF 7",
+    "usrNum": 90177,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooplyf8@gmail.com",
+    "usrCod": "COOPLYF8",
+    "usrNom": "Usuario Externo Coop LYF 8",
+    "usrNum": 90178,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooplyf9@gmail.com",
+    "usrCod": "COOPLYF9",
+    "usrNom": "Usuario Externo Coop LYF 9",
+    "usrNum": 90179,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooplyf10@gmail.com",
+    "usrCod": "COOPLYF10",
+    "usrNom": "Usuario Externo Coop LYF 10",
+    "usrNum": 90180,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jroca@epec.com.ar",
+    "usrCod": "SROCA",
+    "usrNom": "Sebastian Roca",
+    "usrNum": 5771,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "erojo@epec.com.ar",
+    "usrCod": "EROJO",
+    "usrNom": "SEdgardo Luis Rojo (8718)",
+    "usrNum": 8718,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "guaguero@epec.com.ar",
+    "usrCod": "GUAGUERO",
+    "usrNom": "Aguero, Guillermo Alejandro (10751)",
+    "usrNum": 10751,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fegomez@epec.com.ar",
+    "usrCod": "FEGOMEZ",
+    "usrNom": "AFederico Gomez",
+    "usrNum": 5941,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "Guzmanale75@gmail.com",
+    "usrCod": "DGUZMAN",
+    "usrNom": "Alejandro David Guzman",
+    "usrNum": 6834,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "pinino073@gmail.com",
+    "usrCod": "FGUTIERR",
+    "usrNom": "Fernando Emilio Gutierrez",
+    "usrNum": 6975,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "arodrigu2021@gmail.com",
+    "usrCod": "ARODRIGU",
+    "usrNom": "Miguel Angel Rodriguez",
+    "usrNum": 6756,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ellocolucas22lr@gmail.com",
+    "usrCod": "LROMERO",
+    "usrNom": "Lucas Romero",
+    "usrNum": 7430,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "sboetto1979@gmail.com",
+    "usrCod": "SBOETTO",
+    "usrNom": "Silvina Andrea Boetto",
+    "usrNum": 7440,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "servicios.55.conectar@gmail.com",
+    "usrCod": "NBRACAM",
+    "usrNom": "Nahuel Bracamonte (90239)",
+    "usrNum": 90239,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "edmoyano@epec.com.ar",
+    "usrCod": "EDMOYANO",
+    "usrNom": "Eduardo Moyano (90240)",
+    "usrNum": 90240,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "feescobar@epec.com.ar",
+    "usrCod": "FEESCOBA",
+    "usrNom": "Escobar Fernando (90241)",
+    "usrNum": 90241,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gaquino@epec.com.ar",
+    "usrCod": "GAQUINO",
+    "usrNom": "Aquino Gonzalo (90242)",
+    "usrNum": 90242,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jaquino@epec.com.ar",
+    "usrCod": "JAQUINO",
+    "usrNom": "Aquino Jorge (90243)",
+    "usrNum": 90243,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fflores@epec.com.ar",
+    "usrCod": "FFLORES",
+    "usrNom": "Flores Facundo (90244)",
+    "usrNum": 90244,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dafernandez@epec.com.ar",
+    "usrCod": "DAFERNAN",
+    "usrNom": "Fernandez Daniel (90245)",
+    "usrNum": 90245,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mtanquia@epec.com.ar",
+    "usrCod": "MTANQUIA",
+    "usrNom": "Tanquia Magali (10984)",
+    "usrNum": 10984,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mtanquia@epec.com.ar",
+    "usrCod": "MCASTILLO",
+    "usrNom": "Castillo Maximiliano (90247)",
+    "usrNum": 90247,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mfissore@epec.com.ar",
+    "usrCod": "MFISSORE",
+    "usrNom": "Marcos Gabriel Fissore (7839)",
+    "usrNum": 7839,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "",
+    "usrCod": "IEMCO1",
+    "usrNom": "Usuario Externo IEMCO (90249)",
+    "usrNum": 90249,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "",
+    "usrCod": "IEMCO2",
+    "usrNom": "Usuario Externo IEMCO (90250)",
+    "usrNum": 90250,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gallotinelson@gmail.com",
+    "usrCod": "NGALLOTT",
+    "usrNom": "Nelson Gallotti (90108)",
+    "usrNum": 90108,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "psawicki@epec.com.ar",
+    "usrCod": "PSAWICKI",
+    "usrNom": "Pablo Sawicki",
+    "usrNum": 6550,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "hlobatto@epec.com.ar",
+    "usrCod": "HLOBATTO",
+    "usrNom": "Hernan Lobatto",
+    "usrNum": 8567,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "iemco.villaallende8@gmail.com",
+    "usrCod": "GNAQUINO",
+    "usrNom": "Gonzalo Nicolás Aquino (90215)",
+    "usrNum": 90215,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dbarrionuevo@epec.com.ar",
+    "usrCod": "DEBARRIO",
+    "usrNom": "BARRIONUEVO DANIEL EDUARDO (11085)",
+    "usrNum": 11085,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "remarchetto@epec.com.ar",
+    "usrCod": "REMARCHE",
+    "usrNom": "Renato Eduardo Marchetto (8633)",
+    "usrNum": 8633,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ncervellini@epec.com.ar",
+    "usrCod": "NCERVELL",
+    "usrNom": "Nestor Cervellini",
+    "usrNum": 5463,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ssauch@epec.com.ar",
+    "usrCod": "SSAUCH",
+    "usrNom": "Sergio Sebastián Sauch (8320)",
+    "usrNum": 8320,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jsalarin@epec.com.ar",
+    "usrCod": "JSALARIN",
+    "usrNom": "Jose Salarin (8420)",
+    "usrNum": 8420,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "goses@epec.com.ar",
+    "usrCod": "GOSES",
+    "usrNom": "Oses, Gastón Ariel",
+    "usrNum": 10037,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "npacheco@epec.com.ar",
+    "usrCod": "NPACHECO",
+    "usrNom": "Pacheco, Natalia Vanesa (10949)",
+    "usrNum": 10949,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gmeneghello@epec.com.ar",
+    "usrCod": "GMENEGEL",
+    "usrNom": "Guillermo Adrian Menegelo",
+    "usrNum": 3935,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jvalesio@epec.com.ar",
+    "usrCod": "JVALESIO",
+    "usrNom": "Juan Pablo Valesio",
+    "usrNum": 7836,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dbolatti@epec.com.ar",
+    "usrCod": "DBOLATTI",
+    "usrNom": "Daniel Adrian Bolatti (10407)",
+    "usrNum": 10407,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ljmariano@epec.com.ar",
+    "usrCod": "LJMARIAN",
+    "usrNom": "Leandro Juan Jose Mariano (11114)",
+    "usrNum": 11114,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rrumin@epec.com.ar",
+    "usrCod": "RRUMIN",
+    "usrNom": "Richard Rumin",
+    "usrNum": 4433,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "amonti@epec.com.ar",
+    "usrCod": "AMONTI",
+    "usrNom": "Andrea F Monti",
+    "usrNum": 5985,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "arolando@epec.com.ar",
+    "usrCod": "AROLANDO",
+    "usrNom": "Agustin Mario Rolando (8457)",
+    "usrNum": 8457,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jagarcia@epec.com.ar",
+    "usrCod": "JAGARCIA",
+    "usrNom": "Jorge Antonio Garcia (8783)",
+    "usrNum": 8783,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mcabrera@epec.com.ar",
+    "usrCod": "MCABRERA",
+    "usrNom": "Manuel Fernando Cabrera (11183)",
+    "usrNum": 11183,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "pgonzalez@epec.com.ar",
+    "usrCod": "PAGONZAL",
+    "usrNom": "Pablo Andres González (11215)",
+    "usrNum": 11215,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "nmaldonado@epec.com.ar",
+    "usrCod": "NMALDONA",
+    "usrNom": "Neri Maldonado",
+    "usrNum": 6237,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ifiant@epec.com.ar",
+    "usrCod": "IFIANT",
+    "usrNom": "Ivan Fiant",
+    "usrNum": 7373,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cbarrera@epec.com.ar",
+    "usrCod": "CEBARRER",
+    "usrNom": "Cesar Barrera (7490)",
+    "usrNum": 7490,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "carduino@epec.com.ar",
+    "usrCod": "CARDUINO",
+    "usrNom": "Carlos Anibal Arduino (8591)",
+    "usrNum": 8591,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cpavan@epec.com.ar",
+    "usrCod": "CPAVAN",
+    "usrNom": "Carolina Pavan (7965)",
+    "usrNum": 7965,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "sergioparra09@gmail.com",
+    "usrCod": "SPARRA",
+    "usrNom": "Parra Sergio Hernán (90251)",
+    "usrNum": 90251,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gbrac22@gmail.com",
+    "usrCod": "LBRACAMO",
+    "usrNom": "Lucas Gonzalo Bracamonte (90225)",
+    "usrNum": 90225,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "abgime22@gmail.com",
+    "usrCod": "AGIMENEZ",
+    "usrNom": "Abel Gimenez (90224)",
+    "usrNum": 90224,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jbarea@epec.com.ar",
+    "usrCod": "PBAREA",
+    "usrNom": "Pablo Barea (10323)",
+    "usrNum": 10323,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cuadrilla4.loza.r4@gmail.com",
+    "usrCod": "NVILLAFA",
+    "usrNom": "Nestor Villafañe (90217)",
+    "usrNum": 90217,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cuadrilla5.loza.r4@gmail.com",
+    "usrCod": "MBRITO",
+    "usrNom": "Marcelo Brito (90218)",
+    "usrNum": 90218,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "colmos@epec.com.ar",
+    "usrCod": "COLMOS",
+    "usrNom": "Carlos Alberto Olmos",
+    "usrNum": 3823,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mimoreno@epec.com.ar",
+    "usrCod": "MIMORENO",
+    "usrNom": "Miguel Moreno",
+    "usrNum": 10330,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "wbustos@epec.com.ar",
+    "usrCod": "WBUSTOS",
+    "usrNom": "Walter Bustos",
+    "usrNum": 10373,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "foviedo@epec.com.ar",
+    "usrCod": "FOVIEDO",
+    "usrNom": "Fabian Cristian Marcelo Oviedo",
+    "usrNum": 11002,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "malmagro@epec.com.ar",
+    "usrCod": "MALMAGRO",
+    "usrNom": "Maria Soledad Almagro",
+    "usrNum": 5476,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "abruno@epec.com.ar",
+    "usrCod": "ABRUNO",
+    "usrNom": "Adela Rita Bruno",
+    "usrNum": 5987,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mmantelli@epec.com.ar",
+    "usrCod": "MMANTELL",
+    "usrNom": "Mariano Mantelli",
+    "usrNum": 6590,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "vhodulich@epec.com.ar",
+    "usrCod": "VHODULICH",
+    "usrNom": "Hodulich, Vanesa Juana (8338)",
+    "usrNum": 8338,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "adealess@epec.com.ar",
+    "usrCod": "ADEALESS",
+    "usrNom": "Dealessandro, Adrian  (11139)",
+    "usrNum": 11139,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lisandropolo@yahoo.com.ar",
+    "usrCod": "LMPOLO",
+    "usrNom": "Polo Lisandro Martin (11267)",
+    "usrNum": 11267,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dmarasch@epec.com.ar",
+    "usrCod": "DMARASCH",
+    "usrNom": "Damián Alberto Maraschi (8401)",
+    "usrNum": 8401,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cuadrilla6.loza.r4@gmail.com",
+    "usrCod": "LOZARIO4",
+    "usrNom": "Loza Rio 4 (90228)",
+    "usrNum": 90228,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cuadrilla7.loza.r4@gmail.com",
+    "usrCod": "FGLOPEZ",
+    "usrNom": "Facundo Gabriel Lopez (90229)",
+    "usrNum": 90229,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "froldan@epec.com.ar",
+    "usrCod": "MROLDAN",
+    "usrNom": "Maria Fernanda Roldan",
+    "usrNum": 8114,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jmmarin@epec.com.ar",
+    "usrCod": "JMARIN",
+    "usrNom": "Juan Mauricio Marin",
+    "usrNum": 10868,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "",
+    "usrCod": "IGUINAZU",
+    "usrNom": "Ignacio Javier Guiñazu",
+    "usrNum": 11113,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "olucero@epec.com.ar",
+    "usrCod": "OLUCERO",
+    "usrNom": "Osvaldo Tomás Lucero",
+    "usrNum": 6617,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "frena@epec.com.ar",
+    "usrCod": "FRENA",
+    "usrNom": "Rena Fabian",
+    "usrNum": 11010,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ltamborini@epec.com.ar",
+    "usrCod": "LTAMBORI",
+    "usrNom": "Tamborini Lucas Miguel",
+    "usrNum": 8476,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "aliruiz1421968@gmail.com",
+    "usrCod": "AARUIZ",
+    "usrNom": "Ruiz Ariel Adrian",
+    "usrNum": 7940,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cgonzalez@epec.com.ar",
+    "usrCod": "CGONZA",
+    "usrNom": "Gonzalez Crhistian Gerardo",
+    "usrNum": 10998,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ntocaimaza@epec.com.ar",
+    "usrCod": "NTOCAIMA",
+    "usrNom": "",
+    "usrNum": 11099,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "pvalinotti@epec.com.ar",
+    "usrCod": "PVALINO",
+    "usrNom": "Valinotti Pablo",
+    "usrNum": 11100,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rpenalosa@epec.com.ar",
+    "usrCod": "RPENALOS",
+    "usrNom": "Pe�alosa Roman",
+    "usrNum": 5950,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "arielsosa918@gmail.com",
+    "usrCod": "AASOSA",
+    "usrNom": "Sosa Ariel Alejandro",
+    "usrNum": 8636,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lusategui@epec.com.ar",
+    "usrCod": "USATEGUI",
+    "usrNom": "Usategui Segota Luis",
+    "usrNum": 11061,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "paul_viva04@hotmail.com",
+    "usrCod": "LVIVA",
+    "usrNom": "Viva Leandro Paul",
+    "usrNum": 10022,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jorgenicolau530@gmail.com",
+    "usrCod": "JNICOLAU",
+    "usrNom": " Nicolau Jorge Javier",
+    "usrNum": 8224,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "darioteo@hotmail.com",
+    "usrCod": "DTEODORI",
+    "usrNom": " Teodori Dario Fabian",
+    "usrNum": 10568,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "sebastian_camiscia@hotmail.com",
+    "usrCod": "SCAMISCI",
+    "usrNom": "Camiscia Sebastian",
+    "usrNum": 7866,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "bellorodrigo.carp@gmail.com",
+    "usrCod": "RBELLO",
+    "usrNom": "Bello Rodrigo",
+    "usrNum": 11314,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gallende@epec.com.ar",
+    "usrCod": "GALLENDE",
+    "usrNom": "Allende Gaston",
+    "usrNum": 8680,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cacampos@epec.com.ar",
+    "usrCod": "CACAMPOS",
+    "usrNom": "Campos Augusto",
+    "usrNum": 10917,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "amendez@epec.com.ar",
+    "usrCod": "AHMENDEZ",
+    "usrNom": "MENDEZ ALEJANDRO",
+    "usrNum": 8854,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "elheredia@epec.com.ar",
+    "usrCod": "ELHEREDI",
+    "usrNom": "HEREDIA ESTEBAN",
+    "usrNum": 92356,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mrallende@epec.com.ar",
+    "usrCod": "MALLENDE",
+    "usrNom": "Allende Rolando Mauro",
+    "usrNum": 6572,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "svctecelect@gmail.com",
+    "usrCod": "MALMARTI",
+    "usrNom": "Martinez Mario Alejandro",
+    "usrNum": 11098,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "farina.iemco@gmail.com",
+    "usrCod": "FFARINA",
+    "usrNom": "Franco Farina",
+    "usrNum": 91260,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "maxikpo397@gmail.com",
+    "usrCod": "MEBUSTOS",
+    "usrNom": "Maximiliano Ezequiel Bustos (11603)",
+    "usrNum": 11603,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jnav2008@gmail.com",
+    "usrCod": "JANAVARR",
+    "usrNom": "Juan Alberto Navarro (11543)",
+    "usrNum": 11543,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gutierrezadn@gmail.com",
+    "usrCod": "AGUTIER",
+    "usrNom": "Adrian Gutierrez",
+    "usrNum": 8227,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jquinteros@epec.com.ar",
+    "usrCod": "JQUINTER",
+    "usrNom": "QUINTEROS JULIO HORACIO",
+    "usrNum": 8422,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "chorijara34@gmail.com",
+    "usrCod": "RJARA",
+    "usrNom": "JARA RODRIGO EZEQUIEL",
+    "usrNum": 8530,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "agiovagnoli@epec.com.ar",
+    "usrCod": "AGIOVAGN",
+    "usrNom": "AXEL GIOVAGNOLI",
+    "usrNum": 11583,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mrfernandez@epec.com.ar",
+    "usrCod": "MRFERNAN",
+    "usrNom": "Mario Rafael Fernandez (5399)",
+    "usrNum": 5399,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rcarlos@epec.com.ar",
+    "usrCod": "RCARLOS",
+    "usrNom": "Roberto Ignacio Carlos (8826)",
+    "usrNum": 8826,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cfambrosio@epec.com.ar",
+    "usrCod": "CAMBROSI",
+    "usrNom": "Cesar Federico Ambrosio (10032)",
+    "usrNum": 10032,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gaurea@epec.com.ar",
+    "usrCod": "GAUREA",
+    "usrNom": "Gabriel Aurea (10307)",
+    "usrNum": 10307,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fmariani@epec.com.ar",
+    "usrCod": "FMARIANI",
+    "usrNom": "Mariani Fernando Daniel (10494)",
+    "usrNum": 10494,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mverger@epec.com.ar",
+    "usrCod": "MVERGER",
+    "usrNom": "Martin Rodrigo Verger (10157)",
+    "usrNum": 10522,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "acuadrado@epec.com.ar",
+    "usrCod": "ACUADRADO",
+    "usrNom": "Cuadrado, Andres Esteban (10545)",
+    "usrNum": 10545,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "atapia@epec.com.ar",
+    "usrCod": "ATAPIA",
+    "usrNom": "Andres Tapia (10605)",
+    "usrNum": 10605,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fcrotti@epec.com.ar",
+    "usrCod": "FCROTTI",
+    "usrNom": "Franco Crotti (10639) pasante",
+    "usrNum": 10639,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cdelrio@epec.com.ar",
+    "usrCod": "CDELRIO",
+    "usrNom": "Cristian Humberto Del Rio (10929)",
+    "usrNum": 10929,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jugonzalez@epec.com.ar",
+    "usrCod": "JDGONZA",
+    "usrNom": "Gonzalez Juli�n Dario (10974)",
+    "usrNum": 10974,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mcavina@epec.com.ar",
+    "usrCod": "MCAVINA",
+    "usrNom": "M�nica Beatriz Cavina (10975)",
+    "usrNum": 10975,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "iplyehov@epec.com.ar",
+    "usrCod": "IPLYEHOV",
+    "usrNom": "PLYEHOV ILIA (11304)",
+    "usrNum": 11304,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lcolazo@epec.com.ar",
+    "usrCod": "LCOLAZO",
+    "usrNom": "Colazo, Leonardo (92287)",
+    "usrNum": 92287,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "juanjosimioni@gmail.com",
+    "usrCod": "JSIMIONI",
+    "usrNom": "Simioni, Juan Jose",
+    "usrNum": 4494,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gnievas@epec.com.ar",
+    "usrCod": "GNIEVAS",
+    "usrNom": "NIEVAS SERGIO GUSTAVO",
+    "usrNum": 4888,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "sosahugoalberto@gmail.com",
+    "usrCod": "HSOSA",
+    "usrNom": "Sosa, Hugo Alberto",
+    "usrNum": 5420,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dpauloni@epec.com.ar",
+    "usrCod": "DPAULONI",
+    "usrNom": "Dami�n Diego Pauloni (8363)",
+    "usrNum": 8363,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "shpolo@epec.com.ar",
+    "usrCod": "SHPOLO",
+    "usrNom": "Sergio Herman Polo (11539)",
+    "usrNum": 11539,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "emacovaz@grupoconectar.com",
+    "usrCod": "EMACOVAZ",
+    "usrNom": "Eduardo Macovaz (90116)",
+    "usrNum": 90116,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "aagonzalez@epec.com.ar",
+    "usrCod": "AAGONZAL",
+    "usrNom": "Gonzalez, Angel Alberto (11088)",
+    "usrNum": 11088,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "FranBenitez20232023@gmail.com",
+    "usrCod": "FBENITEZ",
+    "usrNom": "Franco Benitez",
+    "usrNum": 90237,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "hernanpavon512@gmail.com",
+    "usrCod": "HPAVON",
+    "usrNom": "Hernan Pavon",
+    "usrNum": 90238,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "abelgimenez53@gmail.com",
+    "usrCod": "AGIMEN",
+    "usrNom": "Abel Gimenez",
+    "usrNum": 90255,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "digaido@epec.com.ar",
+    "usrCod": "DIGAIDO",
+    "usrNom": "Diego Matias Gaido(10451)",
+    "usrNum": 10451,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ecasas@epec.com.ar",
+    "usrCod": "ECASAS",
+    "usrNom": "Eduardo Gabriel Casas",
+    "usrNum": 10126,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "EARGUELLEMA@GMAIL.COM",
+    "usrCod": "EARGUELL",
+    "usrNom": "Esteban Arguello",
+    "usrNum": 50898,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "JOCASTROEMA@GMAIL.COM",
+    "usrCod": "JOCASTRO",
+    "usrNom": "Jose Castro",
+    "usrNum": 50978,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "PCHARRAEMA@GMAIL.COM",
+    "usrCod": "PCHARRA",
+    "usrNom": "Pablo Charra",
+    "usrNum": 50858,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "LPIERACEMA@GMAIL.COM",
+    "usrCod": "LPIERAC",
+    "usrNom": "Luciano Alfredo Pierachini",
+    "usrNum": 50897,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "PSHAFFEEMA@GMAIL.COM",
+    "usrCod": "PSHAFFE",
+    "usrNom": "Pablo Shaffer",
+    "usrNum": 50874,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "verificador.conectar2@gmail.com",
+    "usrCod": "VERIFIC2",
+    "usrNom": "Verificador2",
+    "usrNum": 90258,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "verificador.conectar3@gmail.com",
+    "usrCod": "VERIFIC3",
+    "usrNom": "Verificador3",
+    "usrNum": 90259,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "verificador.conectar4@gmail.com",
+    "usrCod": "VERIFIC4",
+    "usrNom": "Verificador4",
+    "usrNum": 90260,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "verificador.conectar5@gmail.com",
+    "usrCod": "VERIFIC5",
+    "usrNom": "Verificador5",
+    "usrNum": 90261,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "verificador.conectar1@gmail.com",
+    "usrCod": "VERIFIC1",
+    "usrNom": "Verificador1",
+    "usrNum": 90257,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rcano@epec.com.ar",
+    "usrCod": "RCANO",
+    "usrNom": "Ricardo Adrian Cano",
+    "usrNum": 8291,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gguevara@epec.com.ar",
+    "usrCod": "GGUEVARA",
+    "usrNom": "Gerardo Jesus Domingo Guevara",
+    "usrNum": 3937,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "CRISTIANBENITEZ202400001@gmail.com",
+    "usrCod": "CBENITEZ",
+    "usrNom": "Cristian Benitez",
+    "usrNum": 90266,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "tatorubiolo@yahoo.com",
+    "usrCod": "ORUBIOLO",
+    "usrNom": "Rubiolo, Oscar Javier",
+    "usrNum": 6573,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "oscardamia21@gmail.com",
+    "usrCod": "ODAMIA",
+    "usrNom": "Damia, Oscar Daniel",
+    "usrNum": 6669,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "egervan@epec.com.ar",
+    "usrCod": "AGERVAN",
+    "usrNom": "Gervan, Emiliano",
+    "usrNum": 11298,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lsrojas@epec.com.ar",
+    "usrCod": "LROJAS",
+    "usrNom": "Rojas Leandro Santiago",
+    "usrNum": 11095,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "smartorell@epec.com.ar",
+    "usrCod": "SMARTORE",
+    "usrNom": "Sebastian Ulises Martorell",
+    "usrNum": 11057,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jgimenez1@epec.com.ar",
+    "usrCod": "EZJIMENE",
+    "usrNom": "Ezequiel Jimenez",
+    "usrNum": 7854,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ecaceres@epec.com.ar",
+    "usrCod": "ECACERES",
+    "usrNom": "Enrique Antonio C�ceres",
+    "usrNum": 7482,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cglauricella@epec.com",
+    "usrCod": "CLAURICE",
+    "usrNom": "Lauricella Claudio Gabriel",
+    "usrNum": 11079,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fmachuca@epec.com.ar",
+    "usrCod": "FMACHUCA",
+    "usrNom": "Fernando Machuca",
+    "usrNum": 7422,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ffreccia@epec.com.ar",
+    "usrCod": "FFRECCIA",
+    "usrNom": "Freccia Francisco Fernando",
+    "usrNum": 10988,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "engonzalez@epec.com.ar",
+    "usrCod": "ENGONZAL",
+    "usrNom": "Enzo Javier Gonzalez",
+    "usrNum": 7438,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ajcorzo@epec.com.ar",
+    "usrCod": "LCORZO",
+    "usrNom": "Corzo Lopez Antonio",
+    "usrNum": 10952,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cpellizzari@epec.com.ar",
+    "usrCod": "CPELLIZZ",
+    "usrNom": "Carlos Alberto Peliizari",
+    "usrNum": 3887,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ggiorda@epec.com.ar",
+    "usrCod": "GGIORDA",
+    "usrNom": "Gerardo Jos� Giorda",
+    "usrNum": 4517,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "amanzane@epec.com.ar",
+    "usrCod": "AMANZANE",
+    "usrNom": "Andr�s Alberto Manzanelli",
+    "usrNum": 5772,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dnsilva@epec.com.ar",
+    "usrCod": "DSILVA",
+    "usrNom": "Diego Nicolas Silva",
+    "usrNum": 10579,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "aheredia@epec.com.ar",
+    "usrCod": "AHEREDIA",
+    "usrNom": "Antonio Nicolas Heredia",
+    "usrNum": 5982,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "spercivale@epec.com.ar",
+    "usrCod": "SPERCIVA",
+    "usrNom": "Sandro Omar Percivale",
+    "usrNum": 8303,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mdenari@epec.com.ar",
+    "usrCod": "MDENARI",
+    "usrNom": "Mario Enrique Denari",
+    "usrNum": 8446,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mescalante@epec.com.ar",
+    "usrCod": "MESCALAN",
+    "usrNom": "Mariano Al� Escalante",
+    "usrNum": 8447,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cluchini@epec.com.ar",
+    "usrCod": "CLUCHINI",
+    "usrNom": "Luchini, Cristian Ernesto",
+    "usrNum": 10292,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fzonghetti@epec.com.ar",
+    "usrCod": "FZONGETTI",
+    "usrNom": "Fabio Alberto Zonghetti",
+    "usrNum": 10260,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mperassi@epec.com.ar",
+    "usrCod": "MPERASSI",
+    "usrNom": "Perassi, Marcelo Hernan",
+    "usrNum": 10941,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rutrilla@epec.com.ar",
+    "usrCod": "RUTRILLA",
+    "usrNom": "Ricardo Ceferino Utrilla",
+    "usrNum": 11006,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ddiana@epec.com.ar",
+    "usrCod": "DDIANA",
+    "usrNom": "Dario Fernando Diana",
+    "usrNum": 10875,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "dformiga@epec.com.ar",
+    "usrCod": "DFORMIGA",
+    "usrNom": "Damian Formiga",
+    "usrNum": 11096,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "sramello@epec.com.ar",
+    "usrCod": "SRAMELLO",
+    "usrNom": "Sebastian Ramello",
+    "usrNum": 11586,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "eboriglio@epec.com.ar",
+    "usrCod": "EBORIGLI",
+    "usrNom": "Boriglio, Ezequiel Saul",
+    "usrNum": 10797,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rtponce@epec.com.ar",
+    "usrCod": "RTPONCE",
+    "usrNom": "Ricardo Tomas Ponce",
+    "usrNum": 11116,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "egmurua@epec.com.ar",
+    "usrCod": "EGMURUA",
+    "usrNom": "Murua Enrique Gustavo (10921)",
+    "usrNum": 10921,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fmaraschi@epec.com.ar",
+    "usrCod": "FMARASCH",
+    "usrNom": "Franco Ivan Maraschi",
+    "usrNum": 11535,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cborserini@epec.com.ar",
+    "usrCod": "CBORSERI",
+    "usrNom": "Borserini, Claudio Eduardo",
+    "usrNum": 11157,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "emaservicios2295@gmail.com",
+    "usrCod": "EFERRARI",
+    "usrNom": "FERRARI, EDUARDO",
+    "usrNum": 90269,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingepec09@gmail.com",
+    "usrCod": "JCFERNAN",
+    "usrNom": "Fern�ndez Julio C�sar",
+    "usrNum": 90216,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingepec17@gmail.com",
+    "usrCod": "MMIRASSO",
+    "usrNom": "Martin Alejandro Mirassou",
+    "usrNum": 90268,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mahumada@epec.com.ar",
+    "usrCod": "MAHUMADA",
+    "usrNom": "mariela florencia ahumada",
+    "usrNum": 10406,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gcavalleris@epec.com.ar",
+    "usrCod": "GCAVALLE",
+    "usrNom": "Cavalleris, Gustavo",
+    "usrNum": 11415,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "maguilera@epec.com.ar",
+    "usrCod": "MOAGUILE",
+    "usrNom": "Aguilera, Orlando Martin",
+    "usrNum": 8295,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "naxoscarrizonelson@gmail.com",
+    "usrCod": "RNCARRIZ",
+    "usrNom": "Roberto Nelson Carrizo",
+    "usrNum": 90274,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "naxospajonmartin@gmail.com",
+    "usrCod": "APAJON",
+    "usrNom": "Axel Martin Pajon",
+    "usrNum": 90275,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "joni.jg894@gmail.com",
+    "usrCod": "JONGOMEZ",
+    "usrNom": "Jonathan Gomez",
+    "usrNum": 90276,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingepec14@gmail.com",
+    "usrCod": "FCOCO",
+    "usrNom": "Federico Coco",
+    "usrNum": 90278,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingepec517888@gmail.com",
+    "usrCod": "FPAJON",
+    "usrNom": "Federico Gabriel Pajon",
+    "usrNum": 90277,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "emaservicios2640@gmail.com",
+    "usrCod": "GIFERRER",
+    "usrNom": "Ferrero Gianfranco",
+    "usrNum": 90279,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingepec518624@gmail.com",
+    "usrCod": "JSARIAGO",
+    "usrNom": "Juan Sariago",
+    "usrNum": 90280,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingepec518648@gmail.com",
+    "usrCod": "ELUNA",
+    "usrNom": "Edgar Luna",
+    "usrNum": 90281,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingepec517463@gmail.com",
+    "usrCod": "GARIAS",
+    "usrNom": "Gabriel Arias",
+    "usrNum": 90282,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingepec517403@gmail.com",
+    "usrCod": "GGUAZZIN",
+    "usrNom": "Gaston Guazzini",
+    "usrNum": 90283,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingepec517462@gmail.com",
+    "usrCod": "LGARAY",
+    "usrNom": "Leonel Garay",
+    "usrNum": 90284,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingepec517401@gmail.com",
+    "usrCod": "FABLUNA",
+    "usrNom": "Fabrizio Luna",
+    "usrNum": 90285,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "emaservicios35@gmail.com",
+    "usrCod": "FTSORIA",
+    "usrNom": "Franco Tomas Soria",
+    "usrNum": 90286,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "emaservicios2613@gmail.com",
+    "usrCod": "MSALDIVI",
+    "usrNom": "SALDIVIA MAURICIO",
+    "usrNum": 90291,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "emaservicios2847@gmail.com",
+    "usrCod": "MAFERNA",
+    "usrNom": "FERNANDEZ MARTIN ALEJANDRO",
+    "usrNum": 90287,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "emaservicios2701@gmail.com",
+    "usrCod": "TFSALGUE",
+    "usrNom": "SALGUERO TOBIAS FABRICIO",
+    "usrNum": 90288,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "emaservicios2965@gmail.com",
+    "usrCod": "FMVILLAR",
+    "usrNom": "VILLARREAL FERNANDO MANUEL",
+    "usrNum": 90289,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "emaservicios2826@gmail.com",
+    "usrCod": "JABARCOS",
+    "usrNom": "BARCOS JOAQUIN ALEJANDRO",
+    "usrNum": 90290,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "emaservicios2967@gmail.com",
+    "usrCod": "JDACOSTA",
+    "usrNom": "ACOSTA JOSE DAVID",
+    "usrNum": 90292,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "emaservicios2457@gmail.com",
+    "usrCod": "MJRAMIRE",
+    "usrNom": "RAMIREZ MARIO JOAQUIN",
+    "usrNum": 90293,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "facundonahuelperez22@gmail.com",
+    "usrCod": "FACPEREZ",
+    "usrNom": "Facundo Perez",
+    "usrNum": 90273,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "faiglesias@epec.com.ar",
+    "usrCod": "FIGLESIA",
+    "usrNom": "Iglesias, Fernando Ariel",
+    "usrNum": 8400,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gaguero@epec.com.ar",
+    "usrCod": "GAGUERO",
+    "usrNom": "Germ�n Enrique Ag�ero",
+    "usrNum": 5991,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "ptarrago@epec.com.ar",
+    "usrCod": "PTARRAGO",
+    "usrNom": "Pedro Augusto Tarrago de Rosa (91447)",
+    "usrNum": 91447,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gabriel.ariascarrasco@ingeniasa.com.ar",
+    "usrCod": "GAARIAS",
+    "usrNom": "Gabriel Arias",
+    "usrNum": 90296,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gaston.guazzini@ingeniasa.com.ar",
+    "usrCod": "GGUAZZINI",
+    "usrNom": "Gaston Guazzini",
+    "usrNum": 90297,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "leonel.garay@ingeniasa.com.ar",
+    "usrCod": "LEGARAY",
+    "usrNom": "Leonel Garay",
+    "usrNum": 90298,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fernando.coco@ingeniasa.com.ar",
+    "usrCod": "FECOCO",
+    "usrNom": "Fernando Coco",
+    "usrNum": 90299,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fabrizio.luna@ingeniasa.com.ar",
+    "usrCod": "FALUNA",
+    "usrNom": "Fabrizio Luna",
+    "usrNum": 90303,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "juan.sariago@ingeniasa.com.ar",
+    "usrCod": "JCSARIAG",
+    "usrNom": "Juan Carlos Sariago",
+    "usrNum": 90304,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "martin.mirassou@ingeniasa.com.ar",
+    "usrCod": "MIRASSOU",
+    "usrNom": "Martin Mirassou",
+    "usrNum": 90305,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "edgard.luna@ingeniasa.com.ar",
+    "usrCod": "EDLUNA",
+    "usrNom": "Edgar Luna",
+    "usrNum": 90306,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "julio.fernandez@ingeniasa.com.ar",
+    "usrCod": "JUCFERNA",
+    "usrNom": "Julio Cesar Fernandez",
+    "usrNum": 90307,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "agustina.carballo@ingeniasa.com",
+    "usrCod": "AGCARBAL",
+    "usrNom": "Carballo Agustina",
+    "usrNum": 90308,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fabricio.turrin@ingeniasa.com.ar",
+    "usrCod": "FTURRIN",
+    "usrNom": "Turrin Fabricio",
+    "usrNum": 90309,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "federico.ruiz@ingeniasa.com",
+    "usrCod": "FERUIZ",
+    "usrNom": "Ruiz Federico",
+    "usrNum": 90311,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "fernandezmatiasemm@gmail.com",
+    "usrCod": "MATFERNA",
+    "usrNom": "Matias Fernandez",
+    "usrNum": 90312,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooplyf11@gmail.com",
+    "usrCod": "COPLYF11",
+    "usrNom": "Caballero, Guillermo Martin",
+    "usrNum": 90313,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooplyf12@gmail.com",
+    "usrCod": "COPLYF12",
+    "usrNom": "Gomez, Miguel Angel",
+    "usrNum": 90314,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooplyf13@gmail.com",
+    "usrCod": "COPLYF13",
+    "usrNom": "Cerri, Franco Ariel ",
+    "usrNum": 90315,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooplyf14@gmail.com",
+    "usrCod": "COPLYF14",
+    "usrNom": "Salvador, Jorge Angel",
+    "usrNum": 90316,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooplyf15@gmail.com",
+    "usrCod": "COPLYF15",
+    "usrNom": "Peralta Dattoli, Fabian Cesar",
+    "usrNum": 90317,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooplyf16@gmail.com",
+    "usrCod": "COPLYF16",
+    "usrNom": "Alfaro, Oscar Marcelo",
+    "usrNum": 90318,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooplyf17@gmail.com",
+    "usrCod": "COPLYF17",
+    "usrNom": "Fernandez, Marcelo",
+    "usrNum": 90319,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "cooplyf18@gmail.com",
+    "usrCod": "COPLYF18",
+    "usrNom": "Arguello, Cesar Francisco",
+    "usrNum": 90320,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "mgodoy@rowing.com.ar",
+    "usrCod": "MATGODOY",
+    "usrNom": "Matias Godoy",
+    "usrNum": 90321,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingc1epec@gmail.com",
+    "usrCod": "MORDONEZ",
+    "usrNom": "Martin Ordoñez  de Pilla",
+    "usrNum": 90322,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingc5epec@gmail.com",
+    "usrCod": "GEFERREY",
+    "usrNom": "German Ferreyra",
+    "usrNum": 90323,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingc2epec@gmail.com",
+    "usrCod": "IGBUSTOS",
+    "usrNom": "Ignacio Bustos",
+    "usrNum": 90324,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingc3epec@gmail.com",
+    "usrCod": "DANMARTI",
+    "usrNom": "Daniel martinez",
+    "usrNum": 90325,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingc4epec@gmail.com",
+    "usrCod": "YSANTIPO",
+    "usrNom": "Yamil Santipolio",
+    "usrNum": 90326,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "lcarballo@rowing.com.ar",
+    "usrCod": "LMCARBAL",
+    "usrNom": "Lucas Matias Carballo",
+    "usrNum": 90327,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gbenavidez@rowing.com.ar",
+    "usrCod": "GJMARTIN",
+    "usrNom": "Gonzalo Jose Martinez benavidez",
+    "usrNum": 90328,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingc6epec@gmail.com",
+    "usrCod": "FMOYA",
+    "usrNom": "Franco Emanuel Moya",
+    "usrNum": 90329,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingc7epec@gmail.com",
+    "usrCod": "GFOTESTI",
+    "usrNom": "Gianfranco Fotesti Sosa",
+    "usrNum": 90330,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingc8epec@gmail.com",
+    "usrCod": "LMAIDANA",
+    "usrNom": "Leandro Adrian Maidana",
+    "usrNum": 90331,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "rowingc9epec@gmail.com",
+    "usrCod": "JCALVO",
+    "usrNom": "Javier Alejandro Calvo",
+    "usrNum": 90332,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "kevin.ferreyra@ingeniasa.com.ar",
+    "usrCod": "KFERREYR",
+    "usrNom": "Ferreyra Kevin",
+    "usrNum": 90339,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "francesco.coco@ingeniasa.com.ar",
+    "usrCod": "FRCOCO",
+    "usrNom": "Coco Francesco",
+    "usrNum": 90340,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "jose.sarmiento@ingeniasa.com.ar",
+    "usrCod": "JSARMIEN",
+    "usrNom": "Sarmiento Jose",
+    "usrNum": 90341,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "gonzalo.garcia@ingeniasa.com.ar",
+    "usrCod": "GONGARCI",
+    "usrNom": "Garcia Gonzalo",
+    "usrNum": 90342,
+    "usrPas": "PASS"
+  },
+  {
+    "emailAddress": "luis.castro@ingeniasa.com.ar",
+    "usrCod": "LCASTRO",
+    "usrNom": "Castro Luis",
+    "usrNum": 90343,
+    "usrPas": "PASS"
+  }
+]

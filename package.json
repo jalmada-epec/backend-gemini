@@ -1,0 +1,19 @@
+{
+  "name": "gemini-backend",
+  "version": "1.0.0",
+  "description": "Backend con Express y API de Gemini",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.6.0",
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0",
+    "express": "^4.21.2",
+    "form-data": "^4.0.2",
+    "multer": "^1.4.5-lts.1",
+    "openai": "^4.103.0",
+    "pdf-parse": "^1.1.1"
+  }
+}
